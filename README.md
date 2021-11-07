@@ -1,2 +1,3 @@
 # E-commerce-Market-Analysis Among Competitors
-> this is specially
+
+>Build by Team Incognito not for commercial purpose only for the myntra hackerramp hackathon
