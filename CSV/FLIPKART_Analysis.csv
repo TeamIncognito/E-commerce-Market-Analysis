@@ -1,0 +1,5475 @@
+BRAND,RATING,PRICE,DISCOUNT
+ADIDAS,3.2,331,5
+ADIDAS,3.8,331,5
+ADIDAS,3.9,331,5
+ADIDAS,4.1,331,5
+ADIDAS,4.1,331,5
+ADIDAS,4.2,331,5
+ADIDAS,4.2,331,5
+ADIDAS,4.2,331,5
+ADIDAS,4.3,331,5
+ADIDAS,4.3,331,5
+ADIDAS,4.3,331,5
+ADIDAS,4.3,331,5
+ADIDAS,4.4,331,5
+ADIDAS,4.4,331,5
+ADIDAS,4.5,331,5
+ADIDAS,4.6,331,5
+ADIDAS,4.6,331,5
+ADIDAS,5,331,5
+Anand,2,266,79
+Anand,2.8,266,79
+Anand,3,266,79
+Anand,3.2,266,79
+Anand,3.4,266,79
+Anand,3.6,266,79
+Anand,3.7,266,79
+Anand,3.7,266,79
+Anand,3.8,266,79
+Anand,3.8,266,79
+Anand,3.8,266,79
+Anand,3.9,266,79
+Anand,3.9,266,79
+Anand,3.9,266,79
+Anand,4,266,79
+Anand,4.1,266,79
+Anand,4.1,266,79
+Anand,4.1,266,79
+Anand,4.1,266,79
+Anand,4.1,266,79
+Anand,4.1,266,79
+Anand,4.1,266,79
+Anand,4.1,266,79
+Anand,4.1,266,79
+Anand,4.1,266,79
+Anand,4.1,266,79
+Anand,4.1,266,79
+Anand,4.2,266,79
+Anand,4.2,266,79
+Anand,4.2,266,79
+Anand,4.2,266,79
+Anand,4.2,266,79
+Anand,4.2,266,79
+Anand,4.2,266,79
+Anand,4.2,266,79
+Anand,4.3,266,79
+Anand,4.3,266,79
+Anand,4.3,266,79
+Anand,4.3,266,79
+Anand,4.3,266,79
+Anand,4.3,266,79
+Anand,4.3,266,79
+Anand,4.3,266,79
+Anand,4.4,266,79
+Anand,4.4,266,79
+Anand,4.4,266,79
+Anand,4.4,266,79
+Anand,4.4,266,79
+Anand,4.4,266,79
+Anand,4.4,266,79
+Anand,4.4,266,79
+Anand,4.5,266,79
+Anand,4.5,266,79
+Anand,4.5,266,79
+Anand,4.5,266,79
+Anand,4.5,266,79
+Anand,4.5,266,79
+Anand,4.5,266,79
+Anand,4.5,266,79
+Anand,4.5,266,79
+Anand,4.5,266,79
+Anand,4.6,266,79
+Anand,4.6,266,79
+Anand,4.6,266,79
+Anand,4.6,266,79
+Anand,4.6,266,79
+Anand,4.6,266,79
+Anand,4.6,266,79
+Anand,4.7,266,79
+Anand,4.8,266,79
+Anand,4.8,266,79
+Anand,4.8,266,79
+Anand,4.8,266,79
+Anand,5,266,79
+Anand,5,266,79
+Anand,5,266,79
+Anand,5,266,79
+Anand,5,266,79
+Anand,5,266,79
+Anand,5,266,79
+Anand SAREES,3.5,266,79
+Anand SAREES,3.9,266,79
+Anand SAREES,4,266,79
+Anand SAREES,4.2,266,79
+Anand SAREES,4.2,266,79
+Anand SAREES,4.3,266,79
+Anand SAREES,4.3,266,79
+Anand SAREES,4.3,266,79
+Anand SAREES,4.4,266,79
+Anand SAREES,4.4,266,79
+Anand SAREES,4.6,266,79
+Anand SAREES,4.7,266,79
+Anand SAREES,4.7,266,79
+Billion,2.9,801,59
+Billion,3.2,801,59
+Billion,3.7,801,59
+Billion,3.9,801,59
+Billion,3.9,801,59
+Billion,3.9,801,59
+Billion,3.9,801,59
+Billion,4,801,59
+Billion,4,801,59
+Billion,4,801,59
+Billion,4,801,59
+Billion,4,801,59
+Billion,4.1,801,59
+Billion,4.1,801,59
+Billion,4.1,801,59
+Billion,4.1,801,59
+Billion,4.1,801,59
+Billion,4.1,801,59
+Billion,4.1,801,59
+Billion,4.1,801,59
+Billion,4.1,801,59
+Billion,4.2,801,59
+Billion,4.2,801,59
+Billion,4.2,801,59
+Billion,4.2,801,59
+Billion,4.2,801,59
+Billion,4.2,801,59
+Billion,4.2,801,59
+Billion,4.2,801,59
+Billion,4.2,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.3,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.4,801,59
+Billion,4.5,801,59
+Billion,4.5,801,59
+Billion,4.5,801,59
+Billion,4.5,801,59
+Billion,4.5,801,59
+Billion,4.5,801,59
+Billion,4.6,801,59
+Billion,4.6,801,59
+Billion,4.6,801,59
+Billion,4.6,801,59
+Billion,4.6,801,59
+Billion,4.6,801,59
+Billion,4.8,801,59
+Billion,2.3,719,64
+Billion,4.3,719,64
+Billion,4.3,719,64
+Billion,4.4,719,64
+Billion,4.4,719,64
+Billion,4.5,719,64
+Billion,4.6,719,64
+Billion,4.6,719,64
+Billion,3.1,454,65
+Billion,3.3,454,65
+Billion,3.4,454,65
+Billion,3.5,454,65
+Billion,3.5,454,65
+Billion,3.6,454,65
+Billion,3.7,454,65
+Billion,3.7,454,65
+Billion,3.8,454,65
+Billion,3.8,454,65
+Billion,3.8,454,65
+Billion,3.8,454,65
+Billion,3.9,454,65
+Billion,3.9,454,65
+Billion,3.9,454,65
+Billion,3.9,454,65
+Billion,3.9,454,65
+Billion,4,454,65
+Billion,4.1,454,65
+Billion,4.1,454,65
+Billion,4.1,454,65
+Billion,4.1,454,65
+Billion,4.1,454,65
+Billion,4.2,454,65
+Billion,4.2,454,65
+Billion,4.2,454,65
+Billion,4.2,454,65
+Billion,4.2,454,65
+Billion,4.2,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.3,454,65
+Billion,4.4,454,65
+Billion,4.4,454,65
+Billion,4.4,454,65
+Billion,4.4,454,65
+Billion,4.4,454,65
+Billion,4.4,454,65
+Billion,4.4,454,65
+Billion,4.4,454,65
+Billion,4.5,454,65
+Billion,4.5,454,65
+Billion,4.5,454,65
+Billion,4.6,454,65
+Billion,4.6,454,65
+Billion,4.6,454,65
+Billion,4.6,454,65
+Billion,4.6,454,65
+Billion,4.6,454,65
+Billion,4.6,454,65
+Billion,4.6,454,65
+Billion,4.6,454,65
+Billion,4.7,454,65
+Billion,4.7,454,65
+Billion,4.7,454,65
+Billion,4.8,454,65
+Billion,4.8,454,65
+Billion,4.8,454,65
+Billion,4.9,454,65
+Billion,4.9,454,65
+Billion,4,749,70
+Billion,4.1,749,70
+Billion,4.3,749,70
+Billion,4.3,749,70
+Billion,4.4,749,70
+Billion,4.5,749,70
+Billion,4.5,749,70
+Billion,4.5,749,70
+Billion,4.6,749,70
+Billion,4.6,749,70
+Billion,4.6,749,70
+Billion,4.6,749,70
+Billion,4.7,749,70
+Billion,4.8,749,70
+BLIVE,3.1,295,78
+BLIVE,3.3,295,78
+BLIVE,3.3,295,78
+BLIVE,3.6,295,78
+BLIVE,3.8,295,78
+BLIVE,3.9,295,78
+BLIVE,3.9,295,78
+BLIVE,3.9,295,78
+BLIVE,3.9,295,78
+BLIVE,3.9,295,78
+BLIVE,3.9,295,78
+BLIVE,4,295,78
+BLIVE,4,295,78
+BLIVE,4.1,295,78
+BLIVE,4.1,295,78
+BLIVE,4.1,295,78
+BLIVE,4.1,295,78
+BLIVE,4.1,295,78
+BLIVE,4.1,295,78
+BLIVE,4.2,295,78
+BLIVE,4.2,295,78
+BLIVE,4.2,295,78
+BLIVE,4.2,295,78
+BLIVE,4.2,295,78
+BLIVE,4.2,295,78
+BLIVE,4.2,295,78
+BLIVE,4.2,295,78
+BLIVE,4.2,295,78
+BLIVE,4.2,295,78
+BLIVE,4.2,295,78
+BLIVE,4.2,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.3,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.4,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.5,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.6,295,78
+BLIVE,4.7,295,78
+BLIVE,4.7,295,78
+BLIVE,4.7,295,78
+BLIVE,4.7,295,78
+BLIVE,4.7,295,78
+BLIVE,4.7,295,78
+BLIVE,4.7,295,78
+BLIVE,4.7,295,78
+BLIVE,4.8,295,78
+BLIVE,4.8,295,78
+BLIVE,4.8,295,78
+BLIVE,4.8,295,78
+BLIVE,4.8,295,78
+BLIVE,4.9,295,78
+BLIVE,4.9,295,78
+BLIVE,4.9,295,78
+BLIVE,4.9,295,78
+BLIVE,5,295,78
+BLIVE,5,295,78
+BLIVE,3.5,231,83
+BLIVE,3.7,231,83
+BLIVE,3.7,231,83
+BLIVE,3.7,231,83
+BLIVE,3.8,231,83
+BLIVE,3.8,231,83
+BLIVE,4,231,83
+BLIVE,4,231,83
+BLIVE,4.1,231,83
+BLIVE,4.1,231,83
+BLIVE,4.1,231,83
+BLIVE,4.2,231,83
+BLIVE,4.2,231,83
+BLIVE,4.2,231,83
+BLIVE,4.2,231,83
+BLIVE,4.2,231,83
+BLIVE,4.2,231,83
+BLIVE,4.2,231,83
+BLIVE,4.2,231,83
+BLIVE,4.2,231,83
+BLIVE,4.2,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.3,231,83
+BLIVE,4.4,231,83
+BLIVE,4.4,231,83
+BLIVE,4.4,231,83
+BLIVE,4.4,231,83
+BLIVE,4.4,231,83
+BLIVE,4.4,231,83
+BLIVE,4.4,231,83
+BLIVE,4.4,231,83
+BLIVE,4.4,231,83
+BLIVE,4.4,231,83
+BLIVE,4.4,231,83
+BLIVE,4.4,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.5,231,83
+BLIVE,4.6,231,83
+BLIVE,4.6,231,83
+BLIVE,4.6,231,83
+BLIVE,4.6,231,83
+BLIVE,4.6,231,83
+BLIVE,4.7,231,83
+BLIVE,4.8,231,83
+BLIVE,5,231,83
+BLIVE,5,231,83
+BLIVE,5,231,83
+BLIVE,3.8,208,85
+BLIVE,3.9,208,85
+BLIVE,3.9,208,85
+BLIVE,4,208,85
+BLIVE,4,208,85
+BLIVE,4,208,85
+BLIVE,4,208,85
+BLIVE,4,208,85
+BLIVE,4.1,208,85
+BLIVE,4.1,208,85
+BLIVE,4.1,208,85
+BLIVE,4.1,208,85
+BLIVE,4.1,208,85
+BLIVE,4.1,208,85
+BLIVE,4.2,208,85
+BLIVE,4.2,208,85
+BLIVE,4.2,208,85
+BLIVE,4.2,208,85
+BLIVE,4.2,208,85
+BLIVE,4.2,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.3,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.4,208,85
+BLIVE,4.5,208,85
+BLIVE,4.5,208,85
+BLIVE,4.5,208,85
+BLIVE,4.5,208,85
+BLIVE,4.5,208,85
+BLIVE,4.5,208,85
+BLIVE,4.5,208,85
+BLIVE,4.5,208,85
+BLIVE,4.5,208,85
+BLIVE,4.5,208,85
+BLIVE,4.5,208,85
+BLIVE,4.6,208,85
+BLIVE,4.6,208,85
+BLIVE,4.6,208,85
+BLIVE,4.6,208,85
+BLIVE,4.7,208,85
+BLIVE,4.8,208,85
+BLIVE,4.9,208,85
+BLIVE,5,208,85
+Breil By Fort Collins,4.2,"1,852",33
+Breil By Fort Collins,4.4,"1,852",33
+Breil By Fort Collins,4.5,"1,852",33
+Breil By Fort Collins,4.6,"1,852",33
+Breil By Fort Collins,4.7,"1,852",33
+Breil By Fort Collins,3.1,"1,383",44
+Breil By Fort Collins,4.1,"1,383",44
+Breil By Fort Collins,4.3,"1,383",44
+Breil By Fort Collins,4.3,"1,383",44
+Breil By Fort Collins,4.3,"1,383",44
+Breil By Fort Collins,4.3,"1,383",44
+Breil By Fort Collins,4.3,"1,383",44
+Breil By Fort Collins,4.5,"1,383",44
+Breil By Fort Collins,4.5,"1,383",44
+Breil By Fort Collins,4.5,"1,383",44
+Breil By Fort Collins,4.6,"1,383",44
+Breil By Fort Collins,4.6,"1,383",44
+Breil By Fort Collins,4.6,"1,383",44
+Breil By Fort Collins,4.7,"1,383",44
+Breil By Fort Collins,4.7,"1,383",44
+Breil By Fort Collins,4.8,"1,383",44
+Breil By Fort Collins,3.6,"1,247",45
+Breil By Fort Collins,3.8,"1,247",45
+Breil By Fort Collins,4,"1,247",45
+Breil By Fort Collins,4,"1,247",45
+Breil By Fort Collins,4.1,"1,247",45
+Breil By Fort Collins,4.1,"1,247",45
+Breil By Fort Collins,4.2,"1,247",45
+Breil By Fort Collins,4.3,"1,247",45
+Breil By Fort Collins,4.3,"1,247",45
+Breil By Fort Collins,4.3,"1,247",45
+Breil By Fort Collins,4.3,"1,247",45
+Breil By Fort Collins,4.3,"1,247",45
+Breil By Fort Collins,4.4,"1,247",45
+Breil By Fort Collins,4.5,"1,247",45
+Breil By Fort Collins,4.5,"1,247",45
+Breil By Fort Collins,4.8,"1,247",45
+Breil By Fort Collins,4.9,"1,247",45
+Breil By Fort Collins,5,"1,247",45
+Breil By Fort Collins,2.5,855,46
+Breil By Fort Collins,3.7,855,46
+Breil By Fort Collins,3.7,855,46
+Breil By Fort Collins,3.7,855,46
+Breil By Fort Collins,3.8,855,46
+Breil By Fort Collins,3.9,855,46
+Breil By Fort Collins,4,855,46
+Breil By Fort Collins,4,855,46
+Breil By Fort Collins,4,855,46
+Breil By Fort Collins,4,855,46
+Breil By Fort Collins,4,855,46
+Breil By Fort Collins,4.1,855,46
+Breil By Fort Collins,4.1,855,46
+Breil By Fort Collins,4.1,855,46
+Breil By Fort Collins,4.2,855,46
+Breil By Fort Collins,4.2,855,46
+Breil By Fort Collins,4.3,855,46
+Breil By Fort Collins,4.3,855,46
+Breil By Fort Collins,4.3,855,46
+Breil By Fort Collins,4.3,855,46
+Breil By Fort Collins,4.3,855,46
+Breil By Fort Collins,4.3,855,46
+Breil By Fort Collins,4.3,855,46
+Breil By Fort Collins,4.3,855,46
+Breil By Fort Collins,4.3,855,46
+Breil By Fort Collins,4.4,855,46
+Breil By Fort Collins,4.4,855,46
+Breil By Fort Collins,4.4,855,46
+Breil By Fort Collins,4.4,855,46
+Breil By Fort Collins,4.5,855,46
+Breil By Fort Collins,4.5,855,46
+Breil By Fort Collins,4.5,855,46
+Breil By Fort Collins,4.5,855,46
+Breil By Fort Collins,4.5,855,46
+Breil By Fort Collins,4.5,855,46
+Breil By Fort Collins,4.5,855,46
+Breil By Fort Collins,4.5,855,46
+Breil By Fort Collins,4.5,855,46
+Breil By Fort Collins,4.5,855,46
+Breil By Fort Collins,4.5,855,46
+Breil By Fort Collins,4.6,855,46
+Breil By Fort Collins,4.6,855,46
+Breil By Fort Collins,4.6,855,46
+Breil By Fort Collins,4.6,855,46
+Breil By Fort Collins,4.6,855,46
+Breil By Fort Collins,4.7,855,46
+Breil By Fort Collins,4.7,855,46
+Breil By Fort Collins,4.7,855,46
+Breil By Fort Collins,4.8,855,46
+Breil By Fort Collins,5,855,46
+Breil By Fort Collins,2.3,"1,215",47
+Breil By Fort Collins,3.2,"1,296",47
+Breil By Fort Collins,3.5,"1,223",47
+Breil By Fort Collins,3.7,"1,223",47
+Breil By Fort Collins,3.9,"1,296",47
+Breil By Fort Collins,3.9,"1,215",47
+Breil By Fort Collins,3.9,"1,223",47
+Breil By Fort Collins,4,"1,223",47
+Breil By Fort Collins,4,"1,215",47
+Breil By Fort Collins,4.1,"1,223",47
+Breil By Fort Collins,4.1,"1,223",47
+Breil By Fort Collins,4.1,"1,223",47
+Breil By Fort Collins,4.1,"1,215",47
+Breil By Fort Collins,4.1,"1,296",47
+Breil By Fort Collins,4.1,"1,296",47
+Breil By Fort Collins,4.2,"1,296",47
+Breil By Fort Collins,4.2,"1,223",47
+Breil By Fort Collins,4.2,"1,296",47
+Breil By Fort Collins,4.2,"1,296",47
+Breil By Fort Collins,4.2,"1,223",47
+Breil By Fort Collins,4.2,"1,223",47
+Breil By Fort Collins,4.2,"1,215",47
+Breil By Fort Collins,4.2,"1,223",47
+Breil By Fort Collins,4.2,"1,296",47
+Breil By Fort Collins,4.2,"1,223",47
+Breil By Fort Collins,4.2,"1,215",47
+Breil By Fort Collins,4.2,"1,223",47
+Breil By Fort Collins,4.3,"1,296",47
+Breil By Fort Collins,4.3,"1,223",47
+Breil By Fort Collins,4.3,"1,215",47
+Breil By Fort Collins,4.3,"1,223",47
+Breil By Fort Collins,4.3,"1,215",47
+Breil By Fort Collins,4.3,"1,223",47
+Breil By Fort Collins,4.3,"1,296",47
+Breil By Fort Collins,4.3,"1,223",47
+Breil By Fort Collins,4.3,"1,215",47
+Breil By Fort Collins,4.3,"1,296",47
+Breil By Fort Collins,4.3,"1,223",47
+Breil By Fort Collins,4.3,"1,223",47
+Breil By Fort Collins,4.3,"1,215",47
+Breil By Fort Collins,4.4,"1,296",47
+Breil By Fort Collins,4.4,"1,223",47
+Breil By Fort Collins,4.4,"1,223",47
+Breil By Fort Collins,4.4,"1,296",47
+Breil By Fort Collins,4.4,"1,223",47
+Breil By Fort Collins,4.4,"1,223",47
+Breil By Fort Collins,4.4,"1,215",47
+Breil By Fort Collins,4.4,"1,223",47
+Breil By Fort Collins,4.4,"1,223",47
+Breil By Fort Collins,4.4,"1,215",47
+Breil By Fort Collins,4.4,"1,215",47
+Breil By Fort Collins,4.4,"1,223",47
+Breil By Fort Collins,4.4,"1,223",47
+Breil By Fort Collins,4.4,"1,223",47
+Breil By Fort Collins,4.4,"1,215",47
+Breil By Fort Collins,4.5,"1,223",47
+Breil By Fort Collins,4.5,"1,223",47
+Breil By Fort Collins,4.5,"1,296",47
+Breil By Fort Collins,4.5,"1,296",47
+Breil By Fort Collins,4.5,"1,296",47
+Breil By Fort Collins,4.5,"1,296",47
+Breil By Fort Collins,4.5,"1,223",47
+Breil By Fort Collins,4.5,"1,223",47
+Breil By Fort Collins,4.5,"1,215",47
+Breil By Fort Collins,4.5,"1,215",47
+Breil By Fort Collins,4.5,"1,296",47
+Breil By Fort Collins,4.5,"1,296",47
+Breil By Fort Collins,4.5,"1,296",47
+Breil By Fort Collins,4.5,"1,223",47
+Breil By Fort Collins,4.5,"1,223",47
+Breil By Fort Collins,4.5,"1,296",47
+Breil By Fort Collins,4.5,"1,215",47
+Breil By Fort Collins,4.5,"1,215",47
+Breil By Fort Collins,4.6,"1,223",47
+Breil By Fort Collins,4.6,"1,223",47
+Breil By Fort Collins,4.6,"1,223",47
+Breil By Fort Collins,4.6,"1,223",47
+Breil By Fort Collins,4.6,"1,296",47
+Breil By Fort Collins,4.7,"1,296",47
+Breil By Fort Collins,4.7,"1,215",47
+Breil By Fort Collins,4.8,"1,223",47
+Breil By Fort Collins,4.8,"1,223",47
+Breil By Fort Collins,4.8,"1,223",47
+Breil By Fort Collins,4.8,"1,296",47
+Breil By Fort Collins,4.9,"1,296",47
+Breil By Fort Collins,5,"1,296",47
+Breil By Fort Collins,5,"1,296",47
+Breil By Fort Collins,3,"1,329",52
+Breil By Fort Collins,3.1,"1,329",52
+Breil By Fort Collins,3.1,"1,329",52
+Breil By Fort Collins,3.2,"1,329",52
+Breil By Fort Collins,3.5,"1,329",52
+Breil By Fort Collins,3.6,"1,329",52
+Breil By Fort Collins,3.7,"1,329",52
+Breil By Fort Collins,3.8,"1,329",52
+Breil By Fort Collins,3.8,"1,329",52
+Breil By Fort Collins,3.8,"1,329",52
+Breil By Fort Collins,3.8,"1,329",52
+Breil By Fort Collins,3.9,"1,329",52
+Breil By Fort Collins,4,"1,329",52
+Breil By Fort Collins,4,"1,329",52
+Breil By Fort Collins,4,"1,329",52
+Breil By Fort Collins,4.1,"1,329",52
+Breil By Fort Collins,4.1,"1,329",52
+Breil By Fort Collins,4.1,"1,329",52
+Breil By Fort Collins,4.1,"1,329",52
+Breil By Fort Collins,4.1,"1,329",52
+Breil By Fort Collins,4.1,"1,329",52
+Breil By Fort Collins,4.1,"1,329",52
+Breil By Fort Collins,4.2,"1,329",52
+Breil By Fort Collins,4.2,"1,329",52
+Breil By Fort Collins,4.2,"1,329",52
+Breil By Fort Collins,4.2,"1,329",52
+Breil By Fort Collins,4.2,"1,329",52
+Breil By Fort Collins,4.2,"1,329",52
+Breil By Fort Collins,4.3,"1,329",52
+Breil By Fort Collins,4.3,"1,329",52
+Breil By Fort Collins,4.3,"1,329",52
+Breil By Fort Collins,4.3,"1,329",52
+Breil By Fort Collins,4.3,"1,329",52
+Breil By Fort Collins,4.3,"1,329",52
+Breil By Fort Collins,4.3,"1,329",52
+Breil By Fort Collins,4.3,"1,329",52
+Breil By Fort Collins,4.3,"1,329",52
+Breil By Fort Collins,4.3,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.4,"1,329",52
+Breil By Fort Collins,4.5,"1,329",52
+Breil By Fort Collins,4.5,"1,329",52
+Breil By Fort Collins,4.5,"1,329",52
+Breil By Fort Collins,4.5,"1,329",52
+Breil By Fort Collins,4.5,"1,329",52
+Breil By Fort Collins,4.6,"1,329",52
+Breil By Fort Collins,4.6,"1,329",52
+Breil By Fort Collins,4.6,"1,329",52
+Breil By Fort Collins,4.6,"1,329",52
+Breil By Fort Collins,4.6,"1,329",52
+Breil By Fort Collins,4.6,"1,329",52
+Breil By Fort Collins,4.6,"1,329",52
+Breil By Fort Collins,4.7,"1,329",52
+Breil By Fort Collins,4.8,"1,329",52
+Breil By Fort Collins,3.5,990,58
+Breil By Fort Collins,4.2,990,58
+Breil By Fort Collins,4.3,990,58
+Breil By Fort Collins,4.3,990,58
+Breil By Fort Collins,4.3,990,58
+Breil By Fort Collins,4.4,990,58
+Breil By Fort Collins,4.4,990,58
+Breil By Fort Collins,4.4,990,58
+Breil By Fort Collins,4.4,990,58
+Breil By Fort Collins,4.5,990,58
+Breil By Fort Collins,4.5,990,58
+Breil By Fort Collins,4.5,990,58
+Breil By Fort Collins,4.6,990,58
+Breil By Fort Collins,4.6,990,58
+Breil By Fort Collins,4.6,990,58
+Breil By Fort Collins,4.7,990,58
+Broen,3,165,49
+Broen,3.1,165,49
+Broen,3.2,165,49
+Broen,3.5,165,49
+Broen,3.6,165,49
+Broen,3.6,165,49
+Broen,3.7,165,49
+Broen,3.8,165,49
+Broen,3.8,165,49
+Broen,3.8,165,49
+Broen,4,165,49
+Broen,4.1,165,49
+Broen,4.1,165,49
+Broen,4.1,165,49
+Broen,4.1,165,49
+Broen,4.2,165,49
+Broen,4.2,165,49
+Broen,4.2,165,49
+Broen,4.2,165,49
+Broen,4.2,165,49
+Broen,4.2,165,49
+Broen,4.2,165,49
+Broen,4.3,165,49
+Broen,4.3,165,49
+Broen,4.3,165,49
+Broen,4.3,165,49
+Broen,4.3,165,49
+Broen,4.3,165,49
+Broen,4.3,165,49
+Broen,4.3,165,49
+Broen,4.3,165,49
+Broen,4.3,165,49
+Broen,4.3,165,49
+Broen,4.3,165,49
+Broen,4.4,165,49
+Broen,4.4,165,49
+Broen,4.4,165,49
+Broen,4.4,165,49
+Broen,4.4,165,49
+Broen,4.4,165,49
+Broen,4.4,165,49
+Broen,4.4,165,49
+Broen,4.4,165,49
+Broen,4.4,165,49
+Broen,4.4,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.5,165,49
+Broen,4.6,165,49
+Broen,4.6,165,49
+Broen,4.6,165,49
+Broen,4.6,165,49
+Broen,4.6,165,49
+Broen,4.6,165,49
+Broen,4.6,165,49
+Broen,4.6,165,49
+Broen,4.6,165,49
+Broen,4.6,165,49
+Broen,4.6,165,49
+Broen,4.7,165,49
+Broen,4.8,165,49
+Broen,4.9,165,49
+Broen,5,165,49
+Broen,5,165,49
+Broen,3.1,248,64
+Broen,3.3,248,64
+Broen,3.3,248,64
+Broen,3.4,248,64
+Broen,3.6,248,64
+Broen,3.6,248,64
+Broen,3.6,248,64
+Broen,3.7,248,64
+Broen,3.7,248,64
+Broen,3.9,248,64
+Broen,3.9,248,64
+Broen,3.9,248,64
+Broen,4,248,64
+Broen,4,248,64
+Broen,4.1,248,64
+Broen,4.2,248,64
+Broen,4.2,248,64
+Broen,4.2,248,64
+Broen,4.2,248,64
+Broen,4.2,248,64
+Broen,4.2,248,64
+Broen,4.2,248,64
+Broen,4.2,248,64
+Broen,4.3,248,64
+Broen,4.3,248,64
+Broen,4.3,248,64
+Broen,4.3,248,64
+Broen,4.3,248,64
+Broen,4.3,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.4,248,64
+Broen,4.5,248,64
+Broen,4.5,248,64
+Broen,4.5,248,64
+Broen,4.5,248,64
+Broen,4.5,248,64
+Broen,4.5,248,64
+Broen,4.5,248,64
+Broen,4.5,248,64
+Broen,4.5,248,64
+Broen,4.5,248,64
+Broen,4.5,248,64
+Broen,4.5,248,64
+Broen,4.6,248,64
+Broen,4.6,248,64
+Broen,4.6,248,64
+Broen,4.6,248,64
+Broen,4.6,248,64
+Broen,4.6,248,64
+Broen,4.6,248,64
+Broen,4.6,248,64
+Broen,4.7,248,64
+Broen,4.8,248,64
+Broen,4.8,248,64
+Broen,4.8,248,64
+Broen,4.9,248,64
+Broen,5,248,64
+Broen,5,248,64
+Cartyshop,3,558,86
+Cartyshop,3.2,558,86
+Cartyshop,3.5,558,86
+Cartyshop,3.7,558,86
+Cartyshop,3.9,558,86
+Cartyshop,3.9,558,86
+Cartyshop,4.1,558,86
+Cartyshop,4.1,558,86
+Cartyshop,4.1,558,86
+Cartyshop,4.2,558,86
+Cartyshop,4.2,558,86
+Cartyshop,4.2,558,86
+Cartyshop,4.2,558,86
+Cartyshop,4.3,558,86
+Cartyshop,4.3,558,86
+Cartyshop,4.3,558,86
+Cartyshop,4.3,558,86
+Cartyshop,4.3,558,86
+Cartyshop,4.3,558,86
+Cartyshop,4.4,558,86
+Cartyshop,4.4,558,86
+Cartyshop,4.4,558,86
+Cartyshop,4.4,558,86
+Cartyshop,4.4,558,86
+Cartyshop,4.4,558,86
+Cartyshop,4.4,558,86
+Cartyshop,4.4,558,86
+Cartyshop,4.4,558,86
+Cartyshop,4.4,558,86
+Cartyshop,4.4,558,86
+Cartyshop,4.5,558,86
+Cartyshop,4.5,558,86
+Cartyshop,4.5,558,86
+Cartyshop,4.5,558,86
+Cartyshop,4.5,558,86
+Cartyshop,4.5,558,86
+Cartyshop,4.5,558,86
+Cartyshop,4.5,558,86
+Cartyshop,4.6,558,86
+Cartyshop,5,558,86
+Cartyshop,5,558,86
+Cartyshop,5,558,86
+Classic Polo,4.1,560,20
+Classic Polo,4.4,480,20
+Classic Polo,4.5,560,20
+Classic Polo,4.6,560,20
+Classic Polo,4.6,480,20
+DealSeven fashion,3.3,195,77
+DealSeven fashion,3.9,195,77
+DealSeven fashion,4,195,77
+DealSeven fashion,4,195,77
+DealSeven fashion,4,195,77
+DealSeven fashion,4.2,195,77
+DealSeven fashion,4.2,195,77
+DealSeven fashion,4.2,195,77
+DealSeven fashion,4.2,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.3,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.4,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.5,195,77
+DealSeven fashion,4.6,195,77
+DealSeven fashion,4.6,195,77
+DealSeven fashion,4.6,195,77
+DealSeven fashion,4.6,195,77
+DealSeven fashion,4.6,195,77
+DealSeven fashion,4.6,195,77
+DealSeven fashion,4.6,195,77
+DealSeven fashion,4.6,195,77
+DealSeven fashion,4.7,195,77
+DealSeven fashion,4.7,195,77
+DealSeven fashion,4.7,195,77
+DealSeven fashion,4.7,195,77
+DealSeven fashion,4.7,195,77
+DealSeven fashion,4.7,195,77
+DealSeven fashion,4.8,195,77
+DealSeven fashion,4.8,195,77
+DealSeven fashion,4.8,195,77
+DealSeven fashion,4.8,195,77
+DealSeven fashion,4.8,195,77
+DealSeven fashion,4.9,195,77
+Dollar Bigboss,3.6,470,32
+Dollar Bigboss,4,470,32
+Dollar Bigboss,4.2,470,32
+Dollar Bigboss,4.2,470,32
+Dollar Bigboss,4.3,470,32
+Dollar Bigboss,4.3,470,32
+Dollar Bigboss,4.4,470,32
+Dollar Bigboss,4.4,470,32
+Dollar Bigboss,4.5,470,32
+Dollar Bigboss,4.5,470,32
+Dollar Bigboss,4.5,470,32
+Dollar Bigboss,4.5,470,32
+Dollar Bigboss,4.5,470,32
+Dollar Bigboss,4.5,470,32
+Dollar Bigboss,4.6,470,32
+Dollar Bigboss,4.6,470,32
+Dollar Bigboss,4.6,470,32
+Dollar Bigboss,4.7,470,32
+Dollar Bigboss,4.7,470,32
+Dollar Bigboss,4.7,470,32
+Dollar Bigboss,4.8,470,32
+Dollar Bigboss,4.8,470,32
+Dollar Bigboss,4.8,470,32
+Dollar Bigboss,4.8,470,32
+Dollar Bigboss,4.8,470,32
+Dollar Bigboss,4.8,470,32
+Eyebogler,3.7,399,69
+Eyebogler,4,399,69
+Eyebogler,4.1,399,69
+Eyebogler,4.1,399,69
+Eyebogler,4.2,399,69
+Eyebogler,4.3,399,69
+Eyebogler,4.4,399,69
+Eyebogler,4.8,399,69
+Eyebogler,3.1,327,74
+Eyebogler,3.3,327,74
+Eyebogler,3.3,327,74
+Eyebogler,3.8,327,74
+Eyebogler,4,327,74
+Eyebogler,4,327,74
+Eyebogler,4,327,74
+Eyebogler,4,327,74
+Eyebogler,4.1,327,74
+Eyebogler,4.1,327,74
+Eyebogler,4.1,327,74
+Eyebogler,4.2,327,74
+Eyebogler,4.2,327,74
+Eyebogler,4.2,327,74
+Eyebogler,4.2,327,74
+Eyebogler,4.2,327,74
+Eyebogler,4.2,327,74
+Eyebogler,4.2,327,74
+Eyebogler,4.2,327,74
+Eyebogler,4.2,327,74
+Eyebogler,4.2,327,74
+Eyebogler,4.3,327,74
+Eyebogler,4.3,327,74
+Eyebogler,4.3,327,74
+Eyebogler,4.3,327,74
+Eyebogler,4.3,327,74
+Eyebogler,4.3,327,74
+Eyebogler,4.4,327,74
+Eyebogler,4.4,327,74
+Eyebogler,4.4,327,74
+Eyebogler,4.4,327,74
+Eyebogler,4.4,327,74
+Eyebogler,4.5,327,74
+Eyebogler,4.5,327,74
+Eyebogler,4.5,327,74
+Eyebogler,4.6,327,74
+Eyebogler,4.6,327,74
+Eyebogler,4.7,327,74
+Eyebogler,4.7,327,74
+Eyebogler,4.7,327,74
+Eyebogler,4.7,327,74
+Eyebogler,4.9,327,74
+Eyebogler,2.3,286,77
+Eyebogler,2.3,286,77
+Eyebogler,3,286,77
+Eyebogler,3.3,286,77
+Eyebogler,3.5,286,77
+Eyebogler,3.6,286,77
+Eyebogler,3.6,286,77
+Eyebogler,3.6,286,77
+Eyebogler,3.7,286,77
+Eyebogler,3.8,286,77
+Eyebogler,3.8,286,77
+Eyebogler,3.9,286,77
+Eyebogler,3.9,286,77
+Eyebogler,3.9,286,77
+Eyebogler,3.9,286,77
+Eyebogler,4,286,77
+Eyebogler,4,286,77
+Eyebogler,4,286,77
+Eyebogler,4,286,77
+Eyebogler,4,286,77
+Eyebogler,4,286,77
+Eyebogler,4,286,77
+Eyebogler,4,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.1,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.2,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.3,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.4,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.5,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.6,286,77
+Eyebogler,4.7,286,77
+Eyebogler,4.7,286,77
+Eyebogler,4.7,286,77
+Eyebogler,4.7,286,77
+Eyebogler,4.7,286,77
+Eyebogler,4.7,286,77
+Eyebogler,4.7,286,77
+Eyebogler,4.7,286,77
+Eyebogler,4.7,286,77
+Eyebogler,4.8,286,77
+Eyebogler,4.8,286,77
+Eyebogler,4.8,286,77
+Eyebogler,4.8,286,77
+Eyebogler,4.8,286,77
+Eyebogler,4.8,286,77
+Eyebogler,4.8,286,77
+Eyebogler,4.8,286,77
+Eyebogler,4.9,286,77
+Eyebogler,4.9,286,77
+Eyebogler,5,286,77
+Eyebogler,5,286,77
+FABdon,3.6,165,58
+FABdon,3.6,165,58
+FABdon,3.8,165,58
+FABdon,3.8,165,58
+FABdon,3.8,165,58
+FABdon,4,165,58
+FABdon,4,165,58
+FABdon,4,165,58
+FABdon,4,165,58
+FABdon,4.1,165,58
+FABdon,4.1,165,58
+FABdon,4.1,165,58
+FABdon,4.2,165,58
+FABdon,4.2,165,58
+FABdon,4.2,165,58
+FABdon,4.2,165,58
+FABdon,4.2,165,58
+FABdon,4.2,165,58
+FABdon,4.2,165,58
+FABdon,4.2,165,58
+FABdon,4.2,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.3,165,58
+FABdon,4.4,165,58
+FABdon,4.4,165,58
+FABdon,4.4,165,58
+FABdon,4.4,165,58
+FABdon,4.4,165,58
+FABdon,4.4,165,58
+FABdon,4.4,165,58
+FABdon,4.4,165,58
+FABdon,4.4,165,58
+FABdon,4.4,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.5,165,58
+FABdon,4.6,165,58
+FABdon,4.6,165,58
+FABdon,4.6,165,58
+FABdon,4.6,165,58
+FABdon,4.6,165,58
+FABdon,4.6,165,58
+FABdon,4.6,165,58
+FABdon,4.6,165,58
+FABdon,4.6,165,58
+FABdon,4.6,165,58
+FABdon,4.7,165,58
+FABdon,4.7,165,58
+FABdon,4.8,165,58
+FABdon,4.9,165,58
+FABdon,5,165,58
+FABdon,5,165,58
+FABdon,5,165,58
+FABdon,5,165,58
+FABdon,5,165,58
+Fabwomen,1.6,299,82
+Fabwomen,3.4,299,82
+Fabwomen,3.5,299,82
+Fabwomen,3.7,299,82
+Fabwomen,3.8,299,82
+Fabwomen,3.9,299,82
+Fabwomen,3.9,299,82
+Fabwomen,3.9,299,82
+Fabwomen,3.9,299,82
+Fabwomen,3.9,299,82
+Fabwomen,3.9,299,82
+Fabwomen,3.9,299,82
+Fabwomen,4.1,299,82
+Fabwomen,4.1,299,82
+Fabwomen,4.1,299,82
+Fabwomen,4.1,299,82
+Fabwomen,4.1,299,82
+Fabwomen,4.1,299,82
+Fabwomen,4.1,299,82
+Fabwomen,4.1,299,82
+Fabwomen,4.1,299,82
+Fabwomen,4.1,299,82
+Fabwomen,4.1,299,82
+Fabwomen,4.2,299,82
+Fabwomen,4.2,299,82
+Fabwomen,4.2,299,82
+Fabwomen,4.2,299,82
+Fabwomen,4.2,299,82
+Fabwomen,4.2,299,82
+Fabwomen,4.2,299,82
+Fabwomen,4.2,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.3,299,82
+Fabwomen,4.4,299,82
+Fabwomen,4.4,299,82
+Fabwomen,4.4,299,82
+Fabwomen,4.4,299,82
+Fabwomen,4.4,299,82
+Fabwomen,4.4,299,82
+Fabwomen,4.4,299,82
+Fabwomen,4.4,299,82
+Fabwomen,4.4,299,82
+Fabwomen,4.5,299,82
+Fabwomen,4.5,299,82
+Fabwomen,4.5,299,82
+Fabwomen,4.5,299,82
+Fabwomen,4.5,299,82
+Fabwomen,4.5,299,82
+Fabwomen,4.5,299,82
+Fabwomen,4.5,299,82
+Fabwomen,4.5,299,82
+Fabwomen,4.5,299,82
+Fabwomen,4.6,299,82
+Fabwomen,4.6,299,82
+Fabwomen,4.7,299,82
+Fabwomen,4.7,299,82
+Fabwomen,4.7,299,82
+Fabwomen,4.8,299,82
+Fabwomen,4.8,299,82
+Fabwomen,4.8,299,82
+Fabwomen,4.8,299,82
+Fabwomen,4.8,299,82
+Fabwomen,4.8,299,82
+Fort Collins,3.6,"1,861",26
+Fort Collins,3.7,"1,861",26
+Fort Collins,3.8,"1,861",26
+Fort Collins,4,"1,861",26
+Fort Collins,4.1,"1,861",26
+Fort Collins,4.2,"1,861",26
+Fort Collins,4.2,"1,861",26
+Fort Collins,4.2,"1,861",26
+Fort Collins,4.2,"1,861",26
+Fort Collins,4.2,"1,861",26
+Fort Collins,4.3,"1,861",26
+Fort Collins,4.3,"1,861",26
+Fort Collins,4.3,"1,861",26
+Fort Collins,4.3,"1,861",26
+Fort Collins,4.3,"1,861",26
+Fort Collins,4.3,"1,861",26
+Fort Collins,4.3,"1,861",26
+Fort Collins,4.3,"1,861",26
+Fort Collins,4.3,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.4,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.5,"1,861",26
+Fort Collins,4.6,"1,861",26
+Fort Collins,4.6,"1,861",26
+Fort Collins,4.6,"1,861",26
+Fort Collins,4.6,"1,861",26
+Fort Collins,4.6,"1,861",26
+Fort Collins,4.6,"1,861",26
+Fort Collins,4.6,"1,861",26
+Fort Collins,4.6,"1,861",26
+Fort Collins,4.6,"1,861",26
+Fort Collins,4.6,"1,861",26
+Fort Collins,4.7,"1,861",26
+Fort Collins,4.7,"1,861",26
+Fort Collins,4.7,"1,861",26
+Fort Collins,4.8,"1,861",26
+Fort Collins,4.8,"1,861",26
+Fort Collins,4.9,"1,861",26
+Fort Collins,5,"1,861",26
+Foxter,4.2,629,68
+Foxter,4.3,629,68
+Foxter,4.4,629,68
+Foxter,4.4,629,68
+Foxter,4.4,629,68
+Foxter,4.4,629,68
+Foxter,4.4,629,68
+Foxter,4.4,629,68
+Foxter,4.4,629,68
+Foxter,4.5,629,68
+Foxter,4.5,629,68
+Foxter,4.6,629,68
+Foxter,4.6,629,68
+Foxter,4.7,629,68
+Foxter,4.8,629,68
+Foxter,3.7,449,77
+Foxter,3.9,449,77
+Foxter,4.2,449,77
+Foxter,4.3,449,77
+Foxter,4.3,449,77
+Foxter,4.3,449,77
+Foxter,4.3,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.4,449,77
+Foxter,4.5,449,77
+Foxter,4.5,449,77
+Foxter,4.5,449,77
+Foxter,4.5,449,77
+Foxter,4.5,449,77
+Foxter,4.5,449,77
+Foxter,4.5,449,77
+Foxter,4.5,449,77
+Foxter,4.5,449,77
+Foxter,4.6,449,77
+Foxter,4.6,449,77
+Foxter,4.7,449,77
+Foxter,4.7,449,77
+Foxter,4.7,449,77
+Foxter,4.7,449,77
+Foxter,5,449,77
+FTC FASHIONS,4.1,189,81
+FTC FASHIONS,4.2,189,81
+FTC FASHIONS,4.2,189,81
+FTC FASHIONS,4.2,189,81
+FTC FASHIONS,4.4,189,81
+FTC FASHIONS,4.4,189,81
+FTC FASHIONS,4.4,189,81
+FTC FASHIONS,4.4,189,81
+FTC FASHIONS,4.4,189,81
+FTC FASHIONS,4.4,189,81
+FTC FASHIONS,4.4,189,81
+FTC FASHIONS,4.5,189,81
+FTC FASHIONS,4.5,189,81
+FTC FASHIONS,4.5,189,81
+FTC FASHIONS,4.5,189,81
+FTC FASHIONS,4.6,189,81
+FTC FASHIONS,4.6,189,81
+FTC FASHIONS,4.7,189,81
+FTC FASHIONS,4.8,189,81
+FTC FASHIONS,4.8,189,81
+FTC FASHIONS,4.8,189,81
+FTC FASHIONS,4.8,189,81
+GYRFALCON,3.9,499,70
+GYRFALCON,3.9,499,70
+GYRFALCON,4,499,70
+GYRFALCON,4,499,70
+GYRFALCON,4.1,499,70
+GYRFALCON,4.1,499,70
+GYRFALCON,4.2,499,70
+GYRFALCON,4.2,499,70
+GYRFALCON,4.2,499,70
+GYRFALCON,4.2,499,70
+GYRFALCON,4.2,499,70
+GYRFALCON,4.2,499,70
+GYRFALCON,4.2,499,70
+GYRFALCON,4.2,499,70
+GYRFALCON,4.2,499,70
+GYRFALCON,4.2,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.3,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.4,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.5,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.6,499,70
+GYRFALCON,4.7,499,70
+GYRFALCON,4.7,499,70
+GYRFALCON,4.7,499,70
+GYRFALCON,4.7,499,70
+GYRFALCON,4.7,499,70
+GYRFALCON,5,499,70
+GYRFALCON,5,499,70
+HARPA,3.8,747,56
+HARPA,4.3,747,56
+HARPA,4.3,747,56
+HARPA,4.3,747,56
+HARPA,4.3,747,56
+HARPA,4.3,747,56
+HARPA,4.4,747,56
+HARPA,4.4,747,56
+HARPA,4.4,747,56
+HARPA,4.4,747,56
+HARPA,4.4,747,56
+HELMONT,2.3,284,71
+HELMONT,2.5,284,71
+HELMONT,3.6,284,71
+HELMONT,3.6,284,71
+HELMONT,3.7,284,71
+HELMONT,3.7,284,71
+HELMONT,3.8,284,71
+HELMONT,3.8,284,71
+HELMONT,3.8,284,71
+HELMONT,3.9,284,71
+HELMONT,3.9,284,71
+HELMONT,3.9,284,71
+HELMONT,4,284,71
+HELMONT,4,284,71
+HELMONT,4,284,71
+HELMONT,4,284,71
+HELMONT,4,284,71
+HELMONT,4,284,71
+HELMONT,4,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.1,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.2,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.3,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.4,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.5,284,71
+HELMONT,4.6,284,71
+HELMONT,4.6,284,71
+HELMONT,4.6,284,71
+HELMONT,4.7,284,71
+HELMONT,4.7,284,71
+HELMONT,4.7,284,71
+HELMONT,4.7,284,71
+HELMONT,4.8,284,71
+HELMONT,4.8,284,71
+HELMONT,4.8,284,71
+HELMONT,4.9,284,71
+HELMONT,4.9,284,71
+HELMONT,3.5,209,79
+HELMONT,3.7,209,79
+HELMONT,3.8,209,79
+HELMONT,3.8,209,79
+HELMONT,3.9,209,79
+HELMONT,3.9,209,79
+HELMONT,4,209,79
+HELMONT,4,209,79
+HELMONT,4,209,79
+HELMONT,4,209,79
+HELMONT,4,209,79
+HELMONT,4.1,209,79
+HELMONT,4.1,209,79
+HELMONT,4.1,209,79
+HELMONT,4.1,209,79
+HELMONT,4.1,209,79
+HELMONT,4.1,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.2,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.3,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.4,209,79
+HELMONT,4.5,209,79
+HELMONT,4.5,209,79
+HELMONT,4.5,209,79
+HELMONT,4.5,209,79
+HELMONT,4.5,209,79
+HELMONT,4.5,209,79
+HELMONT,4.5,209,79
+HELMONT,4.6,209,79
+HELMONT,4.6,209,79
+HELMONT,4.6,209,79
+HELMONT,4.6,209,79
+HELMONT,4.7,209,79
+HELMONT,4.7,209,79
+HELMONT,4.7,209,79
+HELMONT,4.7,209,79
+Kizaar,2.9,299,78
+Kizaar,3.2,299,78
+Kizaar,3.3,299,78
+Kizaar,3.4,299,78
+Kizaar,3.6,299,78
+Kizaar,3.6,299,78
+Kizaar,3.6,299,78
+Kizaar,3.7,299,78
+Kizaar,3.7,299,78
+Kizaar,3.8,299,78
+Kizaar,3.8,299,78
+Kizaar,3.9,299,78
+Kizaar,3.9,299,78
+Kizaar,4,299,78
+Kizaar,4,299,78
+Kizaar,4,299,78
+Kizaar,4,299,78
+Kizaar,4,299,78
+Kizaar,4.1,299,78
+Kizaar,4.1,299,78
+Kizaar,4.1,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.2,299,78
+Kizaar,4.3,299,78
+Kizaar,4.3,299,78
+Kizaar,4.3,299,78
+Kizaar,4.3,299,78
+Kizaar,4.3,299,78
+Kizaar,4.3,299,78
+Kizaar,4.3,299,78
+Kizaar,4.3,299,78
+Kizaar,4.3,299,78
+Kizaar,4.4,299,78
+Kizaar,4.4,299,78
+Kizaar,4.4,299,78
+Kizaar,4.4,299,78
+Kizaar,4.4,299,78
+Kizaar,4.4,299,78
+Kizaar,4.4,299,78
+Kizaar,4.4,299,78
+Kizaar,4.5,299,78
+Kizaar,4.5,299,78
+Kizaar,4.5,299,78
+Kizaar,4.5,299,78
+Kizaar,4.5,299,78
+Kizaar,4.5,299,78
+Kizaar,4.5,299,78
+Kizaar,4.5,299,78
+Kizaar,4.5,299,78
+Kizaar,4.5,299,78
+Kizaar,4.6,299,78
+Kizaar,4.6,299,78
+Kizaar,4.6,299,78
+Kizaar,4.6,299,78
+Kizaar,4.7,299,78
+Kizaar,4.8,299,78
+Kizaar,4.8,299,78
+Kizaar,4.8,299,78
+Kizaar,4.8,299,78
+Kizaar,4.8,299,78
+Kizaar,4.9,299,78
+Kizaar,4.9,299,78
+Kizaar,5,299,78
+Kizaar,5,299,78
+ksevencreation,2.1,401,83
+ksevencreation,3,401,83
+ksevencreation,3.2,401,83
+ksevencreation,3.5,401,83
+ksevencreation,3.6,401,83
+ksevencreation,3.7,401,83
+ksevencreation,3.9,401,83
+ksevencreation,4.1,401,83
+ksevencreation,4.2,401,83
+LEE,2.4,900,35
+LEE,2.5,900,35
+LEE,4.1,900,35
+Leelavati,3.1,279,72
+Leelavati,3.9,279,72
+Leelavati,4,279,72
+Leelavati,4.2,279,72
+Leelavati,4.2,279,72
+Leelavati,4.2,279,72
+Leelavati,4.3,279,72
+Leelavati,4.3,279,72
+Leelavati,4.3,279,72
+Leelavati,4.3,279,72
+Leelavati,4.3,279,72
+Leelavati,4.3,279,72
+Leelavati,4.3,279,72
+Leelavati,4.3,279,72
+Leelavati,4.4,279,72
+Leelavati,4.4,279,72
+Leelavati,4.4,279,72
+Leelavati,4.4,279,72
+Leelavati,4.4,279,72
+Leelavati,4.5,279,72
+Leelavati,4.5,279,72
+Leelavati,4.5,279,72
+Leelavati,4.5,279,72
+Leelavati,4.5,279,72
+Leelavati,4.5,279,72
+Leelavati,4.5,279,72
+Leelavati,4.6,279,72
+Leelavati,4.6,279,72
+Leelavati,4.7,279,72
+Leelavati,4.7,279,72
+Leelavati,4.8,279,72
+Leelavati,4.8,279,72
+Leelavati,4.9,279,72
+Leelavati,4.9,279,72
+Leelavati,5,279,72
+Leelavati,5,279,72
+LEVI'S,3.4,327,3
+LEVI'S,3.7,327,3
+LEVI'S,3.7,327,3
+LEVI'S,3.8,327,3
+LEVI'S,3.9,327,3
+LEVI'S,3.9,327,3
+LEVI'S,3.9,327,3
+LEVI'S,3.9,327,3
+LEVI'S,3.9,327,3
+LEVI'S,4,327,3
+LEVI'S,4,327,3
+LEVI'S,4,327,3
+LEVI'S,4,327,3
+LEVI'S,4,327,3
+LEVI'S,4,327,3
+LEVI'S,4,327,3
+LEVI'S,4.1,327,3
+LEVI'S,4.1,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.2,327,3
+LEVI'S,4.3,327,3
+LEVI'S,4.3,327,3
+LEVI'S,4.3,327,3
+LEVI'S,4.3,327,3
+LEVI'S,4.3,327,3
+LEVI'S,4.3,327,3
+LEVI'S,4.3,327,3
+LEVI'S,4.3,327,3
+LEVI'S,4.3,327,3
+LEVI'S,4.3,327,3
+LEVI'S,4.3,327,3
+LEVI'S,4.4,327,3
+LEVI'S,4.4,327,3
+LEVI'S,4.4,327,3
+LEVI'S,4.4,327,3
+LEVI'S,4.4,327,3
+LEVI'S,4.4,327,3
+LEVI'S,4.4,327,3
+LEVI'S,4.4,327,3
+LEVI'S,4.5,327,3
+LEVI'S,4.5,327,3
+LEVI'S,4.5,327,3
+LEVI'S,4.5,327,3
+LEVI'S,4.5,327,3
+LEVI'S,4.5,327,3
+LEVI'S,4.6,327,3
+LEVI'S,4.6,327,3
+LEVI'S,4.7,327,3
+LEVI'S,4.8,327,3
+LEVI'S,4.8,327,3
+LEVI'S,5,327,3
+LEVI'S,3.9,322,5
+LEVI'S,4,322,5
+LEVI'S,4.1,322,5
+LEVI'S,4.1,322,5
+LEVI'S,4.1,322,5
+LEVI'S,4.2,322,5
+LEVI'S,4.6,322,5
+LEVI'S,4.2,560,12
+LEVI'S,4.3,560,12
+LEVI'S,3.8,249,26
+LEVI'S,3.9,249,26
+LEVI'S,3.9,249,26
+LEVI'S,4,249,26
+LEVI'S,4,249,26
+LEVI'S,4.1,249,26
+LEVI'S,4.1,249,26
+LEVI'S,4.2,249,26
+LEVI'S,4.2,249,26
+LEVI'S,4.2,249,26
+LEVI'S,4.3,249,26
+LEVI'S,4.3,249,26
+LEVI'S,4.4,249,26
+LEVI'S,4.4,249,26
+LEVI'S,4.5,249,26
+LEVI'S,4.6,249,26
+LEVI'S,4.8,249,26
+LUX,4.1,404,7
+LUX,4.1,404,7
+LUX,4.3,404,7
+LUX,4.4,404,7
+LUX,4.5,404,7
+Lux Venus,3.5,373,7
+Lux Venus,4.1,373,7
+Lux Venus,4.4,373,7
+Lux Venus,4.5,373,7
+M7 By Metronaut,3.5,645,64
+M7 By Metronaut,4,645,64
+M7 By Metronaut,4.1,645,64
+M7 By Metronaut,4.1,645,64
+M7 By Metronaut,4.2,645,64
+M7 By Metronaut,4.4,645,64
+M7 By Metronaut,4.5,645,64
+M7 By Metronaut,4.6,645,64
+ME Stores,3.6,206,65
+ME Stores,3.8,206,65
+ME Stores,3.9,206,65
+ME Stores,3.9,206,65
+ME Stores,3.9,206,65
+ME Stores,4.1,206,65
+ME Stores,4.1,206,65
+ME Stores,4.1,206,65
+ME Stores,4.1,206,65
+ME Stores,4.1,206,65
+ME Stores,4.1,206,65
+ME Stores,4.1,206,65
+ME Stores,4.1,206,65
+ME Stores,4.2,206,65
+ME Stores,4.2,206,65
+ME Stores,4.2,206,65
+ME Stores,4.3,206,65
+ME Stores,4.3,206,65
+ME Stores,4.3,206,65
+ME Stores,4.3,206,65
+ME Stores,4.3,206,65
+ME Stores,4.3,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.4,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.5,206,65
+ME Stores,4.6,206,65
+ME Stores,4.6,206,65
+ME Stores,4.6,206,65
+ME Stores,4.6,206,65
+ME Stores,4.6,206,65
+ME Stores,4.6,206,65
+ME Stores,4.6,206,65
+ME Stores,4.6,206,65
+ME Stores,4.6,206,65
+ME Stores,4.6,206,65
+ME Stores,4.6,206,65
+ME Stores,4.6,206,65
+ME Stores,4.7,206,65
+ME Stores,4.7,206,65
+ME Stores,4.7,206,65
+ME Stores,4.7,206,65
+ME Stores,4.8,206,65
+ME Stores,4.8,206,65
+ME Stores,4.8,206,65
+ME Stores,4.8,206,65
+ME Stores,4.8,206,65
+ME Stores,4.8,206,65
+ME Stores,4.9,206,65
+METRONAUT,3.8,"1,049",52
+METRONAUT,4.3,"1,049",52
+METRONAUT,4.3,"1,049",52
+METRONAUT,4.3,"1,049",52
+METRONAUT,4.4,"1,049",52
+METRONAUT,4.4,"1,049",52
+METRONAUT,4.4,"1,049",52
+METRONAUT,4.4,"1,049",52
+METRONAUT,4.5,"1,049",52
+METRONAUT,4.5,"1,049",52
+METRONAUT,4.6,"1,049",52
+METRONAUT,4.6,"1,049",52
+METRONAUT,3.6,346,56
+METRONAUT,3.7,346,56
+METRONAUT,4.5,346,56
+Navy Sport,3.5,251,49
+Navy Sport,3.8,251,49
+Navy Sport,3.9,251,49
+Navy Sport,3.9,251,49
+Navy Sport,4,251,49
+Navy Sport,4,251,49
+Navy Sport,4,251,49
+Navy Sport,4.1,251,49
+Navy Sport,4.1,251,49
+Navy Sport,4.1,251,49
+Navy Sport,4.1,251,49
+Navy Sport,4.2,251,49
+Navy Sport,4.2,251,49
+Navy Sport,4.2,251,49
+Navy Sport,4.2,251,49
+Navy Sport,4.2,251,49
+Navy Sport,4.2,251,49
+Navy Sport,4.2,251,49
+Navy Sport,4.2,251,49
+Navy Sport,4.2,251,49
+Navy Sport,4.2,251,49
+Navy Sport,4.3,251,49
+Navy Sport,4.3,251,49
+Navy Sport,4.3,251,49
+Navy Sport,4.3,251,49
+Navy Sport,4.3,251,49
+Navy Sport,4.3,251,49
+Navy Sport,4.3,251,49
+Navy Sport,4.4,251,49
+Navy Sport,4.4,251,49
+Navy Sport,4.4,251,49
+Navy Sport,4.4,251,49
+Navy Sport,4.4,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.5,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.6,251,49
+Navy Sport,4.7,251,49
+Navy Sport,4.7,251,49
+Navy Sport,4.7,251,49
+Navy Sport,4.7,251,49
+Navy Sport,4.7,251,49
+Navy Sport,4.7,251,49
+Navy Sport,4.7,251,49
+Navy Sport,4.7,251,49
+Navy Sport,4.7,251,49
+Navy Sport,4.8,251,49
+Navy Sport,4.9,251,49
+Navy Sport,4.9,251,49
+Navy Sport,5,251,49
+Navy Sport,4,269,55
+Navy Sport,4.2,269,55
+Navy Sport,4.2,269,55
+Navy Sport,4.2,269,55
+Navy Sport,4.3,269,55
+Navy Sport,4.5,269,55
+Navy Sport,4.5,269,55
+Navy Sport,4.5,269,55
+Navy Sport,4.5,269,55
+Navy Sport,4.6,269,55
+Navy Sport,4.6,269,55
+Navy Sport,4.7,269,55
+Navy Sport,4.7,269,55
+Navy Sport,4.7,269,55
+Navy Sport,4.7,269,55
+Navy Sport,4.9,269,55
+NIKE,4.2,"2,835",18
+NIKE,4.4,"2,835",18
+NIKE,4.4,"2,835",18
+NIKE,4.5,"2,835",18
+NIKE,4.6,"2,835",18
+NIKE,4.6,"2,835",18
+NIKE,4.7,"2,835",18
+PARK AVENUE,3.2,"1,007",52
+PARK AVENUE,3.3,"1,049",52
+PARK AVENUE,3.3,"1,007",52
+PARK AVENUE,3.4,"1,007",52
+PARK AVENUE,3.5,"1,049",52
+PARK AVENUE,3.8,"1,049",52
+PARK AVENUE,3.8,"1,049",52
+PARK AVENUE,3.9,"1,049",52
+PARK AVENUE,4.1,911,52
+PARK AVENUE,4.2,911,52
+PARK AVENUE,4.2,"1,049",52
+PARK AVENUE,4.2,"1,007",52
+PARK AVENUE,4.2,"1,007",52
+PARK AVENUE,4.3,"1,007",52
+PARK AVENUE,4.3,"1,049",52
+PARK AVENUE,4.3,"1,049",52
+PARK AVENUE,4.3,"1,049",52
+PARK AVENUE,4.3,"1,007",52
+PARK AVENUE,4.3,"1,007",52
+PARK AVENUE,4.4,"1,049",52
+PARK AVENUE,4.4,"1,049",52
+PARK AVENUE,4.4,"1,049",52
+PARK AVENUE,4.4,"1,049",52
+PARK AVENUE,4.4,"1,049",52
+PARK AVENUE,4.5,"1,007",52
+PARK AVENUE,4.5,"1,049",52
+PARK AVENUE,4.5,"1,007",52
+PARK AVENUE,4.6,"1,049",52
+PARK AVENUE,4.6,"1,049",52
+PARK AVENUE,4.7,"1,007",52
+PARK AVENUE,4.7,"1,049",52
+PARK AVENUE,4.7,"1,049",52
+PARK AVENUE,4.7,"1,007",52
+PARK AVENUE,4.7,"1,007",52
+PARK AVENUE,4.7,"1,007",52
+PARK AVENUE,5,"1,049",52
+PARK AVENUE,5,"1,007",52
+PARK AVENUE,5,"1,007",52
+PARK AVENUE,5,911,52
+PARX,3.2,"1,373",31
+PARX,3.4,"1,373",31
+PARX,3.5,"1,373",31
+PARX,3.6,"1,373",31
+PARX,3.8,"1,373",31
+PARX,3.9,"1,373",31
+PARX,4,"1,373",31
+PARX,4,"1,373",31
+PARX,4,"1,373",31
+PARX,4.1,"1,373",31
+PARX,4.1,"1,373",31
+PARX,4.2,"1,373",31
+PARX,4.2,"1,373",31
+PARX,4.3,"1,373",31
+PARX,4.3,"1,373",31
+PARX,4.3,"1,373",31
+PARX,4.4,"1,373",31
+PARX,4.4,"1,373",31
+PARX,4.4,"1,373",31
+PARX,4.4,"1,373",31
+PARX,4.4,"1,373",31
+PARX,4.4,"1,373",31
+PARX,4.4,"1,373",31
+PARX,4.5,"1,373",31
+PARX,4.5,"1,373",31
+PARX,4.5,"1,373",31
+PARX,4.5,"1,373",31
+PARX,4.5,"1,373",31
+PARX,4.6,"1,373",31
+PARX,4.6,"1,373",31
+PARX,4.6,"1,373",31
+PARX,4.7,"1,373",31
+PARX,4.8,"1,373",31
+PARX,5,"1,373",31
+PARX,5,"1,373",31
+PARX,1,849,50
+PARX,1.5,849,50
+PARX,2,849,50
+PARX,2.5,849,50
+PARX,2.8,749,50
+PARX,3.1,849,50
+PARX,3.1,849,50
+PARX,3.3,849,50
+PARX,3.3,849,50
+PARX,3.4,849,50
+PARX,3.5,899,50
+PARX,3.5,749,50
+PARX,3.5,849,50
+PARX,3.6,849,50
+PARX,3.6,849,50
+PARX,3.7,849,50
+PARX,3.7,849,50
+PARX,3.7,849,50
+PARX,3.8,849,50
+PARX,3.8,849,50
+PARX,3.8,849,50
+PARX,3.8,849,50
+PARX,3.8,849,50
+PARX,3.8,849,50
+PARX,3.8,849,50
+PARX,3.9,899,50
+PARX,3.9,899,50
+PARX,3.9,849,50
+PARX,3.9,849,50
+PARX,3.9,849,50
+PARX,4,849,50
+PARX,4,849,50
+PARX,4,849,50
+PARX,4,849,50
+PARX,4,849,50
+PARX,4,849,50
+PARX,4,849,50
+PARX,4,849,50
+PARX,4,849,50
+PARX,4.1,849,50
+PARX,4.1,849,50
+PARX,4.1,849,50
+PARX,4.1,849,50
+PARX,4.1,849,50
+PARX,4.1,849,50
+PARX,4.2,899,50
+PARX,4.2,849,50
+PARX,4.2,849,50
+PARX,4.2,749,50
+PARX,4.2,749,50
+PARX,4.2,849,50
+PARX,4.2,849,50
+PARX,4.2,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,749,50
+PARX,4.3,849,50
+PARX,4.3,899,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,749,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.3,849,50
+PARX,4.4,899,50
+PARX,4.4,849,50
+PARX,4.4,749,50
+PARX,4.4,749,50
+PARX,4.4,899,50
+PARX,4.4,849,50
+PARX,4.4,899,50
+PARX,4.4,849,50
+PARX,4.4,899,50
+PARX,4.4,749,50
+PARX,4.4,849,50
+PARX,4.4,749,50
+PARX,4.4,749,50
+PARX,4.4,849,50
+PARX,4.4,849,50
+PARX,4.4,899,50
+PARX,4.4,749,50
+PARX,4.4,899,50
+PARX,4.4,749,50
+PARX,4.4,849,50
+PARX,4.4,849,50
+PARX,4.4,849,50
+PARX,4.4,849,50
+PARX,4.4,849,50
+PARX,4.4,849,50
+PARX,4.4,849,50
+PARX,4.4,849,50
+PARX,4.4,849,50
+PARX,4.4,849,50
+PARX,4.4,849,50
+PARX,4.5,849,50
+PARX,4.5,849,50
+PARX,4.5,899,50
+PARX,4.5,849,50
+PARX,4.5,749,50
+PARX,4.5,899,50
+PARX,4.5,849,50
+PARX,4.5,749,50
+PARX,4.5,899,50
+PARX,4.5,849,50
+PARX,4.5,749,50
+PARX,4.5,749,50
+PARX,4.5,849,50
+PARX,4.5,849,50
+PARX,4.5,899,50
+PARX,4.5,849,50
+PARX,4.5,849,50
+PARX,4.5,849,50
+PARX,4.5,849,50
+PARX,4.5,849,50
+PARX,4.5,849,50
+PARX,4.5,849,50
+PARX,4.5,849,50
+PARX,4.6,899,50
+PARX,4.6,899,50
+PARX,4.6,749,50
+PARX,4.6,899,50
+PARX,4.6,899,50
+PARX,4.6,899,50
+PARX,4.6,849,50
+PARX,4.6,849,50
+PARX,4.6,849,50
+PARX,4.6,849,50
+PARX,4.7,849,50
+PARX,4.7,849,50
+PARX,4.7,749,50
+PARX,4.7,749,50
+PARX,4.8,899,50
+PARX,4.8,749,50
+PARX,4.8,899,50
+PARX,4.8,849,50
+PARX,4.8,749,50
+PARX,4.8,849,50
+PARX,4.9,849,50
+PARX,4.9,899,50
+PARX,5,849,50
+PARX,2,"1,049",52
+PARX,3.9,"1,049",52
+PARX,3.9,"1,049",52
+PARX,4,"1,049",52
+PARX,4.1,"1,049",52
+PARX,4.2,"1,049",52
+PARX,4.2,"1,049",52
+PARX,4.2,"1,049",52
+PARX,4.2,"1,049",52
+PARX,4.3,"1,049",52
+PARX,4.3,"1,049",52
+PARX,4.3,"1,049",52
+PARX,4.4,"1,049",52
+PARX,4.4,"1,049",52
+PARX,4.4,"1,049",52
+PARX,4.4,"1,049",52
+PARX,4.4,"1,049",52
+PARX,4.4,"1,049",52
+PARX,4.6,"1,049",52
+PARX,4.7,"1,049",52
+PARX,4.8,"1,049",52
+PARX,4.9,"1,049",52
+PETER ENGLAND,3.7,"1,279",20
+PETER ENGLAND,4,"1,279",20
+PETER ENGLAND,4.1,"1,279",20
+PETER ENGLAND,4.1,"1,279",20
+PETER ENGLAND,4.1,"1,279",20
+PETER ENGLAND,4.1,"1,279",20
+PETER ENGLAND,4.2,"1,279",20
+PETER ENGLAND,4.2,"1,279",20
+PETER ENGLAND,4.2,"1,279",20
+PETER ENGLAND,4.3,"1,279",20
+PETER ENGLAND,4.3,"1,279",20
+PETER ENGLAND,4.4,"1,279",20
+PETER ENGLAND,4.4,"1,279",20
+PETER ENGLAND,4.4,"1,279",20
+PETER ENGLAND,4.4,"1,279",20
+PETER ENGLAND,4.4,"1,279",20
+PETER ENGLAND,4.5,"1,279",20
+PETER ENGLAND,4.5,"1,279",20
+PETER ENGLAND,4.5,"1,279",20
+PETER ENGLAND,4.5,"1,279",20
+PETER ENGLAND,4.6,"1,279",20
+PETER ENGLAND,4.6,"1,279",20
+PETER ENGLAND,4.6,"1,279",20
+PETER ENGLAND,4.7,"1,279",20
+PETER ENGLAND,4.7,"1,279",20
+PETER ENGLAND,4.8,"1,279",20
+PETER ENGLAND,4.1,"1,049",25
+PETER ENGLAND,4.1,"1,049",25
+PETER ENGLAND,4.4,"1,199",25
+PETER ENGLAND,4.4,"1,199",25
+PETER ENGLAND,4.4,"1,199",25
+PETER ENGLAND,4.5,"1,199",25
+PETER ENGLAND,4.5,"1,049",25
+PETER ENGLAND,2.3,"1,049",30
+PETER ENGLAND,3.3,"1,049",30
+PETER ENGLAND,3.5,"1,049",30
+PETER ENGLAND,3.6,"1,049",30
+PETER ENGLAND,3.7,"1,049",30
+PETER ENGLAND,3.8,"1,049",30
+PETER ENGLAND,3.9,"1,049",30
+PETER ENGLAND,4,"1,049",30
+PETER ENGLAND,4,"1,049",30
+PETER ENGLAND,4,"1,049",30
+PETER ENGLAND,4.1,"1,049",30
+PETER ENGLAND,4.1,"1,049",30
+PETER ENGLAND,4.1,"1,049",30
+PETER ENGLAND,4.1,"1,049",30
+PETER ENGLAND,4.1,"1,049",30
+PETER ENGLAND,4.1,"1,049",30
+PETER ENGLAND,4.1,"1,049",30
+PETER ENGLAND,4.2,"1,049",30
+PETER ENGLAND,4.2,"1,049",30
+PETER ENGLAND,4.3,"1,049",30
+PETER ENGLAND,4.3,"1,049",30
+PETER ENGLAND,4.3,"1,049",30
+PETER ENGLAND,4.3,"1,049",30
+PETER ENGLAND,4.3,"1,049",30
+PETER ENGLAND,4.3,"1,049",30
+PETER ENGLAND,4.3,"1,049",30
+PETER ENGLAND,4.3,"1,049",30
+PETER ENGLAND,4.4,"1,049",30
+PETER ENGLAND,4.4,"1,049",30
+PETER ENGLAND,4.4,"1,049",30
+PETER ENGLAND,4.4,"1,049",30
+PETER ENGLAND,4.4,"1,049",30
+PETER ENGLAND,4.4,"1,049",30
+PETER ENGLAND,4.4,"1,049",30
+PETER ENGLAND,4.4,"1,049",30
+PETER ENGLAND,4.4,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.5,"1,049",30
+PETER ENGLAND,4.6,"1,049",30
+PETER ENGLAND,4.6,"1,049",30
+PETER ENGLAND,4.6,"1,049",30
+PETER ENGLAND,4.6,"1,049",30
+PETER ENGLAND,4.6,"1,049",30
+PETER ENGLAND,4.6,"1,049",30
+PETER ENGLAND,4.6,"1,049",30
+PETER ENGLAND,4.6,"1,049",30
+PETER ENGLAND,4.6,"1,049",30
+PETER ENGLAND,4.7,"1,049",30
+PETER ENGLAND,4.7,"1,049",30
+PETER ENGLAND,4.8,"1,049",30
+PETER ENGLAND,5,"1,049",30
+PETER ENGLAND,2.8,974,35
+PETER ENGLAND,3.8,974,35
+PETER ENGLAND,3.9,974,35
+PETER ENGLAND,3.9,974,35
+PETER ENGLAND,4,974,35
+PETER ENGLAND,4,974,35
+PETER ENGLAND,4,974,35
+PETER ENGLAND,4,974,35
+PETER ENGLAND,4,974,35
+PETER ENGLAND,4,974,35
+PETER ENGLAND,4,974,35
+PETER ENGLAND,4.1,974,35
+PETER ENGLAND,4.1,974,35
+PETER ENGLAND,4.1,974,35
+PETER ENGLAND,4.1,974,35
+PETER ENGLAND,4.1,974,35
+PETER ENGLAND,4.1,974,35
+PETER ENGLAND,4.1,974,35
+PETER ENGLAND,4.1,974,35
+PETER ENGLAND,4.1,974,35
+PETER ENGLAND,4.1,974,35
+PETER ENGLAND,4.2,974,35
+PETER ENGLAND,4.2,974,35
+PETER ENGLAND,4.2,974,35
+PETER ENGLAND,4.2,974,35
+PETER ENGLAND,4.2,974,35
+PETER ENGLAND,4.2,974,35
+PETER ENGLAND,4.2,974,35
+PETER ENGLAND,4.3,974,35
+PETER ENGLAND,4.3,974,35
+PETER ENGLAND,4.3,974,35
+PETER ENGLAND,4.3,974,35
+PETER ENGLAND,4.3,974,35
+PETER ENGLAND,4.3,974,35
+PETER ENGLAND,4.4,974,35
+PETER ENGLAND,4.4,974,35
+PETER ENGLAND,4.4,974,35
+PETER ENGLAND,4.4,974,35
+PETER ENGLAND,4.4,974,35
+PETER ENGLAND,4.4,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.5,974,35
+PETER ENGLAND,4.6,974,35
+PETER ENGLAND,4.6,974,35
+PETER ENGLAND,4.6,974,35
+PETER ENGLAND,4.6,974,35
+PETER ENGLAND,4.6,974,35
+PETER ENGLAND,4.6,974,35
+PETER ENGLAND,4.7,974,35
+PETER ENGLAND,4.8,974,35
+PETER ENGLAND,5,974,35
+Peter England University,3.9,"1,279",20
+Peter England University,4,"1,279",20
+Peter England University,4,"1,279",20
+Peter England University,4.2,"1,279",20
+Peter England University,4.2,"1,279",20
+Peter England University,4.2,"1,279",20
+Peter England University,4.2,"1,279",20
+Peter England University,4.2,"1,279",20
+Peter England University,4.2,"1,279",20
+Peter England University,4.3,"1,279",20
+Peter England University,4.3,"1,279",20
+Peter England University,4.4,"1,279",20
+Peter England University,4.4,"1,279",20
+Peter England University,4.5,"1,279",20
+Peter England University,4.6,"1,279",20
+Peter England University,4.6,"1,279",20
+Peter England University,3.5,"1,199",25
+Peter England University,3.9,"1,199",25
+Peter England University,4,"1,199",25
+Peter England University,4,"1,199",25
+Peter England University,4,"1,199",25
+Peter England University,4.1,"1,199",25
+Peter England University,4.1,"1,199",25
+Peter England University,4.1,"1,199",25
+Peter England University,4.1,"1,199",25
+Peter England University,4.1,"1,199",25
+Peter England University,4.1,"1,199",25
+Peter England University,4.1,"1,199",25
+Peter England University,4.1,"1,199",25
+Peter England University,4.1,"1,199",25
+Peter England University,4.2,"1,199",25
+Peter England University,4.2,"1,199",25
+Peter England University,4.2,"1,199",25
+Peter England University,4.2,"1,199",25
+Peter England University,4.2,"1,199",25
+Peter England University,4.2,"1,199",25
+Peter England University,4.3,"1,199",25
+Peter England University,4.3,"1,199",25
+Peter England University,4.3,"1,199",25
+Peter England University,4.3,"1,199",25
+Peter England University,4.3,"1,199",25
+Peter England University,4.3,"1,199",25
+Peter England University,4.4,"1,199",25
+Peter England University,4.5,"1,199",25
+Peter England University,4.5,"1,199",25
+Peter England University,4.5,"1,199",25
+Peter England University,4.5,"1,199",25
+Peter England University,4.5,"1,199",25
+Peter England University,4.5,"1,199",25
+Peter England University,4.5,"1,199",25
+Peter England University,4.5,"1,199",25
+Peter England University,4.5,"1,199",25
+Peter England University,4.6,"1,199",25
+Peter England University,4.6,"1,199",25
+Peter England University,4.6,"1,199",25
+Peter England University,4.6,"1,199",25
+Peter England University,4.7,"1,199",25
+Peter England University,4.7,"1,199",25
+Peter England University,2.9,"1,039",35
+Peter England University,4.6,"1,039",35
+PUMA,3.4,488,2
+PUMA,3.5,488,2
+PUMA,3.6,488,2
+PUMA,3.7,488,2
+PUMA,3.8,488,2
+PUMA,3.9,488,2
+PUMA,3.9,488,2
+PUMA,4,488,2
+PUMA,4,488,2
+PUMA,4,488,2
+PUMA,4,488,2
+PUMA,4.1,488,2
+PUMA,4.1,488,2
+PUMA,4.1,488,2
+PUMA,4.1,488,2
+PUMA,4.1,488,2
+PUMA,4.1,488,2
+PUMA,4.2,488,2
+PUMA,4.2,488,2
+PUMA,4.2,488,2
+PUMA,4.2,488,2
+PUMA,4.2,488,2
+PUMA,4.2,488,2
+PUMA,4.2,488,2
+PUMA,4.2,488,2
+PUMA,4.2,488,2
+PUMA,4.2,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.3,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.4,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.5,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.6,488,2
+PUMA,4.7,488,2
+PUMA,4.7,488,2
+PUMA,4.7,488,2
+PUMA,4.7,488,2
+PUMA,4.7,488,2
+PUMA,4.7,488,2
+PUMA,4.8,488,2
+PUMA,4.8,488,2
+PUMA,4.8,488,2
+PUMA,4.8,488,2
+PUMA,4.9,488,2
+PUMA,4.9,488,2
+PUMA,4.9,488,2
+PUMA,5,488,2
+PUMA,5,488,2
+PUMA,5,488,2
+Raymond,2,"1,941",2
+Raymond,3.5,"1,941",2
+Raymond,3.6,"1,941",2
+Raymond,3.6,"1,941",2
+Raymond,3.7,"1,941",2
+Raymond,3.8,"1,941",2
+Raymond,3.9,"1,941",2
+Raymond,4,"1,941",2
+Raymond,4.1,"1,941",2
+Raymond,4.1,"1,941",2
+Raymond,4.1,"1,941",2
+Raymond,4.2,"1,941",2
+Raymond,4.2,"1,941",2
+Raymond,4.2,"1,941",2
+Raymond,4.2,"1,941",2
+Raymond,4.2,"1,941",2
+Raymond,4.2,"1,941",2
+Raymond,4.3,"1,941",2
+Raymond,4.3,"1,941",2
+Raymond,4.3,"1,941",2
+Raymond,4.3,"1,941",2
+Raymond,4.3,"1,941",2
+Raymond,4.4,"1,941",2
+Raymond,4.4,"1,941",2
+Raymond,4.4,"1,941",2
+Raymond,4.4,"1,941",2
+Raymond,4.4,"1,941",2
+Raymond,4.4,"1,941",2
+Raymond,4.4,"1,941",2
+Raymond,4.4,"1,941",2
+Raymond,4.5,"1,941",2
+Raymond,4.5,"1,941",2
+Raymond,4.5,"1,941",2
+Raymond,4.5,"1,941",2
+Raymond,4.6,"1,941",2
+Raymond,4.6,"1,941",2
+Raymond,4.6,"1,941",2
+Raymond,4.6,"1,941",2
+Raymond,4.6,"1,941",2
+Raymond,4.6,"1,941",2
+Raymond,4.7,"1,941",2
+Raymond,4.7,"1,941",2
+Raymond,4.7,"1,941",2
+RCSP,3.7,139,76
+RCSP,3.8,139,76
+RCSP,4.2,139,76
+RCSP,4.5,139,76
+RCSP,4.6,139,76
+RCSP,4.6,139,76
+RCSP,4.9,139,76
+Reya,3.9,332,77
+Reya,4,332,77
+Reya,4.1,332,77
+Reya,4.2,332,77
+Reya,4.2,332,77
+Reya,4.2,332,77
+Reya,4.3,332,77
+Reya,4.3,332,77
+Reya,4.3,332,77
+Reya,4.3,332,77
+Reya,4.3,332,77
+Reya,4.3,332,77
+Reya,4.3,332,77
+Reya,4.3,332,77
+Reya,4.3,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.4,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.5,332,77
+Reya,4.6,332,77
+Reya,4.6,332,77
+Reya,4.6,332,77
+Reya,4.6,332,77
+Reya,4.6,332,77
+Reya,4.6,332,77
+Reya,4.6,332,77
+Reya,4.6,332,77
+Reya,4.6,332,77
+Reya,4.6,332,77
+Reya,4.6,332,77
+Reya,4.6,332,77
+Reya,4.7,332,77
+Reya,4.7,332,77
+Reya,4.7,332,77
+Reya,4.7,332,77
+Reya,4.8,332,77
+Reya,4.8,332,77
+Reya,4.9,332,77
+Reya,5,332,77
+Reya,4.1,311,79
+Reya,4.2,311,79
+Reya,4.3,311,79
+Reya,4.3,311,79
+Reya,4.3,311,79
+Reya,4.3,311,79
+Reya,4.3,311,79
+Reya,4.3,311,79
+Reya,4.3,311,79
+Reya,4.3,311,79
+Reya,4.4,311,79
+Reya,4.4,311,79
+Reya,4.4,311,79
+Reya,4.4,311,79
+Reya,4.4,311,79
+Reya,4.4,311,79
+Reya,4.5,311,79
+Reya,4.5,311,79
+Reya,4.5,311,79
+Reya,4.5,311,79
+Reya,4.6,311,79
+Reya,4.6,311,79
+Reya,4.7,311,79
+Roadster,3.1,"1,649",50
+Roadster,3.1,"1,649",50
+Roadster,3.2,"1,649",50
+Roadster,3.5,"1,649",50
+Roadster,3.5,"1,649",50
+Roadster,3.6,"1,649",50
+Roadster,3.7,"1,649",50
+Roadster,3.9,"1,649",50
+Roadster,4,"1,649",50
+Roadster,4,"1,649",50
+Roadster,4,"1,649",50
+Roadster,4.1,"1,649",50
+Roadster,4.1,"1,649",50
+Roadster,4.1,"1,649",50
+Roadster,4.2,"1,649",50
+Roadster,4.2,"1,649",50
+Roadster,4.2,"1,649",50
+Roadster,4.2,"1,649",50
+Roadster,4.2,"1,649",50
+Roadster,4.2,"1,649",50
+Roadster,4.2,"1,649",50
+Roadster,4.2,"1,649",50
+Roadster,4.2,"1,649",50
+Roadster,4.3,"1,649",50
+Roadster,4.3,"1,649",50
+Roadster,4.3,"1,649",50
+Roadster,4.3,"1,649",50
+Roadster,4.4,"1,649",50
+Roadster,4.4,"1,649",50
+Roadster,4.4,"1,649",50
+Roadster,4.4,"1,649",50
+Roadster,4.4,"1,649",50
+Roadster,4.4,"1,649",50
+Roadster,4.4,"1,649",50
+Roadster,4.4,"1,649",50
+Roadster,4.4,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.5,"1,649",50
+Roadster,4.6,"1,649",50
+Roadster,4.6,"1,649",50
+Roadster,4.6,"1,649",50
+Roadster,4.6,"1,649",50
+Roadster,4.6,"1,649",50
+Roadster,4.6,"1,649",50
+Roadster,4.6,"1,649",50
+Roadster,4.6,"1,649",50
+Roadster,4.6,"1,649",50
+Roadster,4.6,"1,649",50
+Roadster,4.6,"1,649",50
+Roadster,4.7,"1,649",50
+Roadster,4.7,"1,649",50
+Roadster,4.9,"1,649",50
+Seven Rocks,3.8,368,71
+Seven Rocks,4.1,368,71
+Seven Rocks,4.2,368,71
+Seven Rocks,3.4,356,72
+Seven Rocks,3.9,356,72
+Seven Rocks,3.9,356,72
+Seven Rocks,3.9,356,72
+Seven Rocks,4,356,72
+Seven Rocks,4,356,72
+Seven Rocks,4,356,72
+Seven Rocks,4,356,72
+Seven Rocks,4.1,356,72
+Seven Rocks,4.1,356,72
+Seven Rocks,4.2,356,72
+Seven Rocks,4.2,356,72
+Seven Rocks,4.2,356,72
+Seven Rocks,4.2,356,72
+Seven Rocks,4.2,356,72
+Seven Rocks,4.2,356,72
+Seven Rocks,4.2,356,72
+Seven Rocks,4.3,356,72
+Seven Rocks,4.3,356,72
+Seven Rocks,4.3,356,72
+Seven Rocks,4.3,356,72
+Seven Rocks,4.3,356,72
+Seven Rocks,4.3,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.4,356,72
+Seven Rocks,4.5,356,72
+Seven Rocks,4.5,356,72
+Seven Rocks,4.5,356,72
+Seven Rocks,4.5,356,72
+Seven Rocks,4.5,356,72
+Seven Rocks,4.5,356,72
+Seven Rocks,4.5,356,72
+Seven Rocks,4.6,356,72
+Seven Rocks,4.6,356,72
+Seven Rocks,4.6,356,72
+Seven Rocks,4.6,356,72
+Seven Rocks,4.6,356,72
+Seven Rocks,4.6,356,72
+Seven Rocks,4.6,356,72
+Seven Rocks,4.6,356,72
+Seven Rocks,4.7,356,72
+Seven Rocks,4.7,356,72
+Seven Rocks,4.7,356,72
+Seven Rocks,4.7,356,72
+Seven Rocks,4.7,356,72
+Seven Rocks,4.7,356,72
+Seven Rocks,4.8,356,72
+Seven Rocks,4.8,356,72
+Seven Rocks,4.8,356,72
+Seven Rocks,4.8,356,72
+Seven Rocks,4.9,356,72
+Seven Rocks,5,356,72
+Seven Rocks,1,341,73
+Seven Rocks,3.1,341,73
+Seven Rocks,3.3,341,73
+Seven Rocks,3.8,341,73
+Seven Rocks,3.8,341,73
+Seven Rocks,3.9,341,73
+Seven Rocks,3.9,341,73
+Seven Rocks,4,341,73
+Seven Rocks,4,341,73
+Seven Rocks,4,341,73
+Seven Rocks,4.1,341,73
+Seven Rocks,4.2,341,73
+Seven Rocks,4.2,341,73
+Seven Rocks,4.2,341,73
+Seven Rocks,4.2,341,73
+Seven Rocks,4.2,341,73
+Seven Rocks,4.2,341,73
+Seven Rocks,4.2,341,73
+Seven Rocks,4.2,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.3,341,73
+Seven Rocks,4.4,341,73
+Seven Rocks,4.4,341,73
+Seven Rocks,4.4,341,73
+Seven Rocks,4.4,341,73
+Seven Rocks,4.4,341,73
+Seven Rocks,4.4,341,73
+Seven Rocks,4.4,341,73
+Seven Rocks,4.4,341,73
+Seven Rocks,4.4,341,73
+Seven Rocks,4.4,341,73
+Seven Rocks,4.4,341,73
+Seven Rocks,4.5,341,73
+Seven Rocks,4.5,341,73
+Seven Rocks,4.5,341,73
+Seven Rocks,4.5,341,73
+Seven Rocks,4.5,341,73
+Seven Rocks,4.5,341,73
+Seven Rocks,4.5,341,73
+Seven Rocks,4.5,341,73
+Seven Rocks,4.5,341,73
+Seven Rocks,4.5,341,73
+Seven Rocks,4.5,341,73
+Seven Rocks,4.6,341,73
+Seven Rocks,4.6,341,73
+Seven Rocks,4.6,341,73
+Seven Rocks,4.6,341,73
+Seven Rocks,4.6,341,73
+Seven Rocks,4.6,341,73
+Seven Rocks,4.7,341,73
+Seven Rocks,4.7,341,73
+Seven Rocks,4.7,341,73
+Seven Rocks,4.7,341,73
+Seven Rocks,4.7,341,73
+Seven Rocks,4.8,341,73
+Seven Rocks,5,341,73
+Seven Rocks,3.2,336,74
+Seven Rocks,3.6,336,74
+Seven Rocks,4,336,74
+Seven Rocks,4,336,74
+Seven Rocks,4.1,336,74
+Seven Rocks,4.1,336,74
+Seven Rocks,4.2,336,74
+Seven Rocks,4.3,336,74
+Seven Rocks,4.3,336,74
+Seven Rocks,4.3,336,74
+Seven Rocks,4.3,336,74
+Seven Rocks,4.3,336,74
+Seven Rocks,4.3,336,74
+Seven Rocks,4.3,336,74
+Seven Rocks,4.4,336,74
+Seven Rocks,4.4,336,74
+Seven Rocks,4.4,336,74
+Seven Rocks,4.4,336,74
+Seven Rocks,4.4,336,74
+Seven Rocks,4.4,336,74
+Seven Rocks,4.4,336,74
+Seven Rocks,4.5,336,74
+Seven Rocks,4.5,336,74
+Seven Rocks,4.5,336,74
+Seven Rocks,4.5,336,74
+Seven Rocks,4.5,336,74
+Seven Rocks,4.5,336,74
+Seven Rocks,4.5,336,74
+Seven Rocks,4.5,336,74
+Seven Rocks,4.5,336,74
+Seven Rocks,4.6,336,74
+Seven Rocks,4.6,336,74
+Seven Rocks,4.6,336,74
+Seven Rocks,4.6,336,74
+Seven Rocks,4.6,336,74
+Seven Rocks,4.6,336,74
+Seven Rocks,4.6,336,74
+Seven Rocks,4.7,336,74
+Seven Rocks,4.7,336,74
+Seven Rocks,4.8,336,74
+Seven Rocks,4.8,336,74
+Seven Rocks,2.3,311,76
+Seven Rocks,3,311,76
+Seven Rocks,3.2,311,76
+Seven Rocks,3.4,311,76
+Seven Rocks,3.6,311,76
+Seven Rocks,3.8,311,76
+Seven Rocks,3.9,311,76
+Seven Rocks,3.9,311,76
+Seven Rocks,4,311,76
+Seven Rocks,4,311,76
+Seven Rocks,4,311,76
+Seven Rocks,4.1,311,76
+Seven Rocks,4.1,311,76
+Seven Rocks,4.1,311,76
+Seven Rocks,4.1,311,76
+Seven Rocks,4.1,311,76
+Seven Rocks,4.1,311,76
+Seven Rocks,4.1,311,76
+Seven Rocks,4.2,311,76
+Seven Rocks,4.2,311,76
+Seven Rocks,4.2,311,76
+Seven Rocks,4.3,311,76
+Seven Rocks,4.3,311,76
+Seven Rocks,4.3,311,76
+Seven Rocks,4.3,311,76
+Seven Rocks,4.3,311,76
+Seven Rocks,4.3,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.4,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.5,311,76
+Seven Rocks,4.6,311,76
+Seven Rocks,4.6,311,76
+Seven Rocks,4.6,311,76
+Seven Rocks,4.6,311,76
+Seven Rocks,4.6,311,76
+Seven Rocks,4.6,311,76
+Seven Rocks,4.7,311,76
+Seven Rocks,4.8,311,76
+Seven Rocks,4.8,311,76
+Seven Rocks,4.9,311,76
+Seven Rocks,5,311,76
+Seven Rocks,5,311,76
+Seven Rocks,3,293,77
+Seven Rocks,3.1,293,77
+Seven Rocks,3.6,293,77
+Seven Rocks,3.6,293,77
+Seven Rocks,3.6,293,77
+Seven Rocks,3.7,293,77
+Seven Rocks,3.8,293,77
+Seven Rocks,3.9,293,77
+Seven Rocks,3.9,293,77
+Seven Rocks,3.9,293,77
+Seven Rocks,3.9,293,77
+Seven Rocks,4,293,77
+Seven Rocks,4,293,77
+Seven Rocks,4,293,77
+Seven Rocks,4,293,77
+Seven Rocks,4,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.1,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.2,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.3,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.4,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.5,293,77
+Seven Rocks,4.6,293,77
+Seven Rocks,4.6,293,77
+Seven Rocks,4.6,293,77
+Seven Rocks,4.6,293,77
+Seven Rocks,4.6,293,77
+Seven Rocks,4.6,293,77
+Seven Rocks,4.6,293,77
+Seven Rocks,4.6,293,77
+Seven Rocks,4.6,293,77
+Seven Rocks,4.6,293,77
+Seven Rocks,4.6,293,77
+Seven Rocks,4.7,293,77
+Seven Rocks,4.7,293,77
+Seven Rocks,4.7,293,77
+Seven Rocks,4.8,293,77
+Seven Rocks,4.8,293,77
+Seven Rocks,4.8,293,77
+Seven Rocks,4.9,293,77
+Seven Rocks,4.9,293,77
+Seven Rocks,5,293,77
+Seven Rocks,5,293,77
+Seven Rocks,5,293,77
+Seven Rocks,5,293,77
+Seven Rocks,5,293,77
+Seven Rocks,3.3,282,78
+Seven Rocks,3.4,282,78
+Seven Rocks,3.8,282,78
+Seven Rocks,4,282,78
+Seven Rocks,4,282,78
+Seven Rocks,4,282,78
+Seven Rocks,4,282,78
+Seven Rocks,4.1,282,78
+Seven Rocks,4.1,282,78
+Seven Rocks,4.2,282,78
+Seven Rocks,4.2,282,78
+Seven Rocks,4.2,282,78
+Seven Rocks,4.2,282,78
+Seven Rocks,4.2,282,78
+Seven Rocks,4.2,279,78
+Seven Rocks,4.3,282,78
+Seven Rocks,4.3,282,78
+Seven Rocks,4.3,282,78
+Seven Rocks,4.3,282,78
+Seven Rocks,4.3,282,78
+Seven Rocks,4.3,282,78
+Seven Rocks,4.3,282,78
+Seven Rocks,4.3,282,78
+Seven Rocks,4.3,282,78
+Seven Rocks,4.4,282,78
+Seven Rocks,4.4,282,78
+Seven Rocks,4.4,282,78
+Seven Rocks,4.4,282,78
+Seven Rocks,4.4,282,78
+Seven Rocks,4.4,282,78
+Seven Rocks,4.4,282,78
+Seven Rocks,4.4,282,78
+Seven Rocks,4.4,282,78
+Seven Rocks,4.4,282,78
+Seven Rocks,4.4,282,78
+Seven Rocks,4.5,282,78
+Seven Rocks,4.5,282,78
+Seven Rocks,4.5,282,78
+Seven Rocks,4.5,282,78
+Seven Rocks,4.5,282,78
+Seven Rocks,4.5,282,78
+Seven Rocks,4.5,282,78
+Seven Rocks,4.5,282,78
+Seven Rocks,4.5,282,78
+Seven Rocks,4.6,282,78
+Seven Rocks,4.6,282,78
+Seven Rocks,4.6,282,78
+Seven Rocks,4.6,282,78
+Seven Rocks,4.6,282,78
+Seven Rocks,4.6,282,78
+Seven Rocks,4.6,282,78
+Seven Rocks,4.6,282,78
+Seven Rocks,4.6,282,78
+Seven Rocks,4.6,282,78
+Seven Rocks,4.6,282,78
+Seven Rocks,4.7,282,78
+Seven Rocks,4.7,282,78
+Seven Rocks,4.7,282,78
+Seven Rocks,4.7,282,78
+Seven Rocks,4.7,282,78
+Seven Rocks,4.8,282,78
+Seven Rocks,4.8,282,78
+Seven Rocks,4.8,282,78
+Seven Rocks,4.8,282,78
+Seven Rocks,4.8,282,78
+Seven Rocks,4.8,282,78
+Seven Rocks,5,282,78
+Seven Rocks,5,282,78
+Seven Rocks,2.3,266,79
+Seven Rocks,2.5,261,79
+Seven Rocks,2.9,261,79
+Seven Rocks,3.4,266,79
+Seven Rocks,3.4,266,79
+Seven Rocks,3.4,262,79
+Seven Rocks,3.5,266,79
+Seven Rocks,3.5,262,79
+Seven Rocks,3.8,261,79
+Seven Rocks,3.8,261,79
+Seven Rocks,3.8,262,79
+Seven Rocks,3.9,266,79
+Seven Rocks,3.9,266,79
+Seven Rocks,4,262,79
+Seven Rocks,4,262,79
+Seven Rocks,4,261,79
+Seven Rocks,4,266,79
+Seven Rocks,4,262,79
+Seven Rocks,4,266,79
+Seven Rocks,4,262,79
+Seven Rocks,4,261,79
+Seven Rocks,4.1,262,79
+Seven Rocks,4.1,262,79
+Seven Rocks,4.1,262,79
+Seven Rocks,4.1,266,79
+Seven Rocks,4.1,266,79
+Seven Rocks,4.1,261,79
+Seven Rocks,4.1,261,79
+Seven Rocks,4.1,261,79
+Seven Rocks,4.2,261,79
+Seven Rocks,4.2,261,79
+Seven Rocks,4.2,261,79
+Seven Rocks,4.2,266,79
+Seven Rocks,4.2,266,79
+Seven Rocks,4.2,266,79
+Seven Rocks,4.3,262,79
+Seven Rocks,4.3,266,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.3,266,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.3,266,79
+Seven Rocks,4.3,266,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.3,266,79
+Seven Rocks,4.3,266,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.3,266,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.3,266,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.3,266,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.3,266,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.3,261,79
+Seven Rocks,4.4,261,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,261,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,262,79
+Seven Rocks,4.4,262,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,262,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,261,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.4,261,79
+Seven Rocks,4.4,266,79
+Seven Rocks,4.5,261,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,261,79
+Seven Rocks,4.5,261,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,262,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,261,79
+Seven Rocks,4.5,262,79
+Seven Rocks,4.5,262,79
+Seven Rocks,4.5,262,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,261,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,262,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,261,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,261,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,261,79
+Seven Rocks,4.5,261,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.5,261,79
+Seven Rocks,4.5,261,79
+Seven Rocks,4.5,266,79
+Seven Rocks,4.6,261,79
+Seven Rocks,4.6,266,79
+Seven Rocks,4.6,262,79
+Seven Rocks,4.6,266,79
+Seven Rocks,4.6,266,79
+Seven Rocks,4.6,262,79
+Seven Rocks,4.6,262,79
+Seven Rocks,4.6,266,79
+Seven Rocks,4.6,266,79
+Seven Rocks,4.6,261,79
+Seven Rocks,4.6,261,79
+Seven Rocks,4.6,261,79
+Seven Rocks,4.6,266,79
+Seven Rocks,4.6,266,79
+Seven Rocks,4.6,266,79
+Seven Rocks,4.6,261,79
+Seven Rocks,4.6,261,79
+Seven Rocks,4.6,266,79
+Seven Rocks,4.7,266,79
+Seven Rocks,4.7,266,79
+Seven Rocks,4.7,262,79
+Seven Rocks,4.7,266,79
+Seven Rocks,4.7,262,79
+Seven Rocks,4.7,261,79
+Seven Rocks,4.7,261,79
+Seven Rocks,4.7,261,79
+Seven Rocks,4.7,266,79
+Seven Rocks,4.8,262,79
+Seven Rocks,4.8,266,79
+Seven Rocks,4.8,261,79
+Seven Rocks,4.8,261,79
+Seven Rocks,4.8,261,79
+Seven Rocks,4.8,261,79
+Seven Rocks,4.9,261,79
+Seven Rocks,4.9,261,79
+Seven Rocks,5,266,79
+Seven Rocks,4.1,223,82
+Seven Rocks,4.3,223,82
+Seven Rocks,4.3,223,82
+Seven Rocks,4.3,223,82
+Seven Rocks,4.4,223,82
+Seven Rocks,4.5,223,82
+Seven Rocks,4.6,223,82
+Seven Rocks,4.6,223,82
+Seven Rocks,4.6,223,82
+Sky World,3,156,65
+Sky World,3.4,156,65
+Sky World,3.5,156,65
+Sky World,3.5,156,65
+Sky World,3.6,156,65
+Sky World,3.9,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4,156,65
+Sky World,4.1,156,65
+Sky World,4.1,156,65
+Sky World,4.1,156,65
+Sky World,4.1,156,65
+Sky World,4.1,156,65
+Sky World,4.1,156,65
+Sky World,4.1,156,65
+Sky World,4.2,156,65
+Sky World,4.2,156,65
+Sky World,4.2,156,65
+Sky World,4.2,156,65
+Sky World,4.2,156,65
+Sky World,4.2,156,65
+Sky World,4.2,156,65
+Sky World,4.2,156,65
+Sky World,4.2,156,65
+Sky World,4.2,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.3,156,65
+Sky World,4.4,156,65
+Sky World,4.4,156,65
+Sky World,4.4,156,65
+Sky World,4.4,156,65
+Sky World,4.4,156,65
+Sky World,4.4,156,65
+Sky World,4.4,156,65
+Sky World,4.4,156,65
+Sky World,4.4,156,65
+Sky World,4.4,156,65
+Sky World,4.4,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.5,156,65
+Sky World,4.6,156,65
+Sky World,4.6,156,65
+Sky World,4.6,156,65
+Sky World,4.6,156,65
+Sky World,4.6,156,65
+Sky World,4.6,156,65
+Sky World,4.6,156,65
+Sky World,4.6,156,65
+Sky World,4.6,156,65
+Sky World,4.6,156,65
+Sky World,4.6,156,65
+Sky World,4.6,156,65
+Sky World,4.7,156,65
+Sky World,4.7,156,65
+Sky World,4.7,156,65
+Sky World,4.7,156,65
+Sky World,4.7,156,65
+Sky World,4.7,156,65
+Sky World,4.7,156,65
+Sky World,4.8,156,65
+Sky World,4.8,156,65
+Sky World,4.8,156,65
+Sky World,4.9,156,65
+Sky World,4.9,156,65
+Sky World,5,156,65
+Smartees,3.5,249,75
+Smartees,3.6,249,75
+Smartees,3.9,249,75
+Smartees,4.1,249,75
+Smartees,4.1,249,75
+Smartees,4.2,249,75
+Smartees,4.2,249,75
+Smartees,4.3,249,75
+Smartees,4.3,249,75
+Smartees,4.3,249,75
+Smartees,4.3,249,75
+Smartees,4.3,249,75
+Smartees,4.4,249,75
+Smartees,4.4,249,75
+Smartees,4.4,249,75
+Smartees,4.4,249,75
+Smartees,4.4,249,75
+Smartees,4.4,249,75
+Smartees,4.4,249,75
+Smartees,4.4,249,75
+Smartees,4.4,249,75
+Smartees,4.4,249,75
+Smartees,4.5,249,75
+Smartees,4.5,249,75
+Smartees,4.5,249,75
+Smartees,4.5,249,75
+Smartees,4.5,249,75
+Smartees,4.5,249,75
+Smartees,4.5,249,75
+Smartees,4.6,249,75
+Smartees,4.6,249,75
+Smartees,4.6,249,75
+Smartees,4.6,249,75
+Smartees,4.6,249,75
+Smartees,4.6,249,75
+Smartees,4.6,249,75
+Smartees,4.7,249,75
+Smartees,4.8,249,75
+Smartees,3,199,80
+Smartees,3.3,199,80
+Smartees,3.3,199,80
+Smartees,3.4,199,80
+Smartees,3.4,199,80
+Smartees,3.6,199,80
+Smartees,3.7,199,80
+Smartees,3.7,199,80
+Smartees,3.7,199,80
+Smartees,3.8,199,80
+Smartees,3.8,199,80
+Smartees,3.8,199,80
+Smartees,4,199,80
+Smartees,4,199,80
+Smartees,4,199,80
+Smartees,4.1,199,80
+Smartees,4.1,199,80
+Smartees,4.1,199,80
+Smartees,4.1,199,80
+Smartees,4.2,199,80
+Smartees,4.2,199,80
+Smartees,4.2,199,80
+Smartees,4.2,199,80
+Smartees,4.2,199,80
+Smartees,4.2,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.3,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.4,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.5,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.6,199,80
+Smartees,4.7,199,80
+Smartees,4.7,199,80
+Smartees,4.7,199,80
+Smartees,4.7,199,80
+Smartees,4.7,199,80
+Smartees,4.7,199,80
+Smartees,4.7,199,80
+Smartees,4.8,199,80
+Smartees,4.8,199,80
+Smartees,4.8,199,80
+Smartees,5,199,80
+Smartees,5,199,80
+Smartees,5,199,80
+Spykar,3.9,"1,685",43
+Spykar,4.2,"1,685",43
+Spykar,4.3,"1,685",43
+Spykar,4.4,"1,685",43
+Spykar,4.5,"1,685",43
+Spykar,4.5,"1,685",43
+Spykar,4.6,"1,685",43
+Spykar,4.9,"1,685",43
+Surhi,2.3,399,80
+Surhi,3.7,399,80
+Surhi,3.8,399,80
+Surhi,3.8,399,80
+Surhi,3.9,399,80
+Surhi,3.9,399,80
+Surhi,4,399,80
+Surhi,4.1,399,80
+Surhi,4.2,399,80
+Surhi,4.2,399,80
+Surhi,4.3,399,80
+Surhi,4.3,399,80
+Surhi,4.3,399,80
+Surhi,4.3,399,80
+Surhi,4.3,399,80
+Surhi,4.4,399,80
+Surhi,4.4,399,80
+Surhi,4.4,399,80
+Surhi,4.4,399,80
+Surhi,4.4,399,80
+Surhi,4.4,399,80
+Surhi,4.4,399,80
+Surhi,4.5,399,80
+Surhi,4.5,399,80
+Surhi,4.5,399,80
+Surhi,4.5,399,80
+Surhi,4.5,399,80
+Surhi,4.6,399,80
+Surhi,4.6,399,80
+Surhi,4.6,399,80
+Surhi,4.6,399,80
+Surhi,4.6,399,80
+Surhi,4.6,399,80
+Surhi,4.7,399,80
+Surhi,4.7,399,80
+Surhi,5,399,80
+Trijal Fab,4.2,349,61
+Trijal Fab,4.2,349,61
+Trijal Fab,4.2,349,61
+Trijal Fab,4.2,349,61
+Trijal Fab,4.2,349,61
+Trijal Fab,4.3,349,61
+Trijal Fab,4.3,349,61
+Trijal Fab,4.3,349,61
+Trijal Fab,4.3,349,61
+Trijal Fab,4.3,349,61
+Trijal Fab,4.3,349,61
+Trijal Fab,4.3,349,61
+Trijal Fab,4.3,349,61
+Trijal Fab,4.4,349,61
+Trijal Fab,4.4,349,61
+Trijal Fab,4.4,349,61
+Trijal Fab,4.4,349,61
+Trijal Fab,4.4,349,61
+Trijal Fab,4.4,349,61
+Trijal Fab,4.4,349,61
+Trijal Fab,4.4,349,61
+Trijal Fab,4.4,349,61
+Trijal Fab,4.4,349,61
+Trijal Fab,4.4,349,61
+Trijal Fab,4.5,349,61
+Trijal Fab,4.5,349,61
+Trijal Fab,4.5,349,61
+Trijal Fab,4.5,349,61
+Trijal Fab,4.5,349,61
+Trijal Fab,4.6,349,61
+Trijal Fab,4.6,349,61
+Trijal Fab,4.7,349,61
+Trijal Fab,4.7,349,61
+Trijal Fab,4.8,349,61
+Trijal Fab,5,349,61
+TRIPR,2.4,284,79
+TRIPR,2.9,284,79
+TRIPR,3.1,284,79
+TRIPR,3.3,284,79
+TRIPR,3.4,284,79
+TRIPR,3.5,284,79
+TRIPR,3.5,284,79
+TRIPR,3.6,284,79
+TRIPR,3.7,284,79
+TRIPR,3.7,284,79
+TRIPR,3.7,284,79
+TRIPR,3.8,284,79
+TRIPR,3.8,284,79
+TRIPR,3.8,284,79
+TRIPR,3.9,284,79
+TRIPR,3.9,284,79
+TRIPR,3.9,284,79
+TRIPR,3.9,284,79
+TRIPR,4,284,79
+TRIPR,4,284,79
+TRIPR,4,284,79
+TRIPR,4,284,79
+TRIPR,4,284,79
+TRIPR,4,284,79
+TRIPR,4,284,79
+TRIPR,4,284,79
+TRIPR,4,284,79
+TRIPR,4,284,79
+TRIPR,4,284,79
+TRIPR,4.1,284,79
+TRIPR,4.1,284,79
+TRIPR,4.1,284,79
+TRIPR,4.1,284,79
+TRIPR,4.1,284,79
+TRIPR,4.1,284,79
+TRIPR,4.1,284,79
+TRIPR,4.1,284,79
+TRIPR,4.1,284,79
+TRIPR,4.1,284,79
+TRIPR,4.1,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.2,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.3,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.4,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.5,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.6,284,79
+TRIPR,4.7,284,79
+TRIPR,4.7,284,79
+TRIPR,4.7,284,79
+TRIPR,4.7,284,79
+TRIPR,4.7,284,79
+TRIPR,4.8,284,79
+TRIPR,4.8,284,79
+TRIPR,4.8,284,79
+TRIPR,4.8,284,79
+TRIPR,4.8,284,79
+TRIPR,4.8,284,79
+TRIPR,4.9,284,79
+TRIPR,4.9,284,79
+TRIPR,5,284,79
+TRIPR,5,284,79
+TRIPR,5,284,79
+TRIPR,3.1,284,85
+TRIPR,3.2,284,85
+TRIPR,3.2,284,85
+TRIPR,3.5,284,85
+TRIPR,3.5,284,85
+TRIPR,4,284,85
+TRIPR,4,284,85
+TRIPR,4,284,85
+TRIPR,4,284,85
+TRIPR,4.1,284,85
+TRIPR,4.1,284,85
+TRIPR,4.1,284,85
+TRIPR,4.2,284,85
+TRIPR,4.2,284,85
+TRIPR,4.2,284,85
+TRIPR,4.2,284,85
+TRIPR,4.2,284,85
+TRIPR,4.2,284,85
+TRIPR,4.2,284,85
+TRIPR,4.2,284,85
+TRIPR,4.2,284,85
+TRIPR,4.2,284,85
+TRIPR,4.2,284,85
+TRIPR,4.3,284,85
+TRIPR,4.3,284,85
+TRIPR,4.3,284,85
+TRIPR,4.3,284,85
+TRIPR,4.3,284,85
+TRIPR,4.3,284,85
+TRIPR,4.3,284,85
+TRIPR,4.3,284,85
+TRIPR,4.3,284,85
+TRIPR,4.3,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.4,284,85
+TRIPR,4.5,284,85
+TRIPR,4.5,284,85
+TRIPR,4.5,284,85
+TRIPR,4.5,284,85
+TRIPR,4.5,284,85
+TRIPR,4.6,284,85
+TRIPR,4.6,284,85
+TRIPR,4.6,284,85
+TRIPR,4.6,284,85
+TRIPR,4.6,284,85
+TRIPR,4.7,284,85
+TRIPR,4.7,284,85
+TRIPR,4.7,284,85
+TRIPR,4.7,284,85
+TRIPR,4.8,284,85
+TRIPR,4.9,284,85
+TRIPR,1.7,265,86
+TRIPR,1.7,265,86
+TRIPR,2.2,265,86
+TRIPR,2.3,265,86
+TRIPR,2.3,265,86
+TRIPR,2.6,265,86
+TRIPR,2.8,265,86
+TRIPR,3,265,86
+TRIPR,3,265,86
+TRIPR,3.2,265,86
+TRIPR,3.3,265,86
+TRIPR,3.3,265,86
+TRIPR,3.3,265,86
+TRIPR,3.4,265,86
+TRIPR,3.4,265,86
+TRIPR,3.5,265,86
+TRIPR,3.5,265,86
+TRIPR,3.5,265,86
+TRIPR,3.5,265,86
+TRIPR,3.6,265,86
+TRIPR,3.6,265,86
+TRIPR,3.6,265,86
+TRIPR,3.7,265,86
+TRIPR,3.7,265,86
+TRIPR,3.7,265,86
+TRIPR,3.7,265,86
+TRIPR,3.8,265,86
+TRIPR,3.8,265,86
+TRIPR,3.8,265,86
+TRIPR,3.8,265,86
+TRIPR,3.8,265,86
+TRIPR,3.8,265,86
+TRIPR,3.8,265,86
+TRIPR,3.8,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,3.9,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.1,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.2,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.3,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.4,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.5,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.6,265,86
+TRIPR,4.7,265,86
+TRIPR,4.7,265,86
+TRIPR,4.7,265,86
+TRIPR,4.7,265,86
+TRIPR,4.7,265,86
+TRIPR,4.7,265,86
+TRIPR,4.7,265,86
+TRIPR,4.7,265,86
+TRIPR,4.7,265,86
+TRIPR,4.7,265,86
+TRIPR,4.7,265,86
+TRIPR,4.8,265,86
+TRIPR,4.8,265,86
+TRIPR,4.8,265,86
+TRIPR,4.8,265,86
+TRIPR,4.8,265,86
+TRIPR,4.8,265,86
+TRIPR,4.8,265,86
+TRIPR,4.8,265,86
+TRIPR,4.8,265,86
+TRIPR,4.9,265,86
+TRIPR,5,265,86
+TRIPR,5,265,86
+TRIPR,5,265,86
+Try This,4,345,65
+Try This,4.1,345,65
+Try This,4.1,345,65
+Try This,4.1,345,65
+Try This,4.1,345,65
+Try This,4.2,345,65
+Try This,4.2,345,65
+Try This,4.2,345,65
+Try This,4.2,345,65
+Try This,4.2,345,65
+Try This,4.2,345,65
+Try This,4.2,345,65
+Try This,4.2,345,65
+Try This,4.2,345,65
+Try This,4.2,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.3,345,65
+Try This,4.4,345,65
+Try This,4.4,345,65
+Try This,4.4,345,65
+Try This,4.4,345,65
+Try This,4.4,345,65
+Try This,4.4,345,65
+Try This,4.4,345,65
+Try This,4.4,345,65
+Try This,4.4,345,65
+Try This,4.4,345,65
+Try This,4.4,345,65
+Try This,4.4,345,65
+Try This,4.5,345,65
+Try This,4.5,345,65
+Try This,4.5,345,65
+Try This,4.5,345,65
+Try This,4.5,345,65
+Try This,4.5,345,65
+Try This,4.5,345,65
+Try This,4.5,345,65
+Try This,4.5,345,65
+Try This,4.5,345,65
+Try This,4.6,345,65
+Try This,4.6,345,65
+Try This,4.6,345,65
+Try This,4.6,345,65
+Try This,4.6,345,65
+Try This,4.7,345,65
+Try This,4.7,345,65
+Try This,4.8,345,65
+Try This,4.8,345,65
+Try This,5,345,65
+Try This,3.7,308,69
+Try This,3.9,308,69
+Try This,4,308,69
+Try This,4.1,308,69
+Try This,4.1,308,69
+Try This,4.1,308,69
+Try This,4.2,308,69
+Try This,4.2,308,69
+Try This,4.2,308,69
+Try This,4.2,308,69
+Try This,4.2,308,69
+Try This,4.2,308,69
+Try This,4.3,308,69
+Try This,4.3,308,69
+Try This,4.3,308,69
+Try This,4.3,308,69
+Try This,4.3,308,69
+Try This,4.3,308,69
+Try This,4.3,308,69
+Try This,4.3,308,69
+Try This,4.3,308,69
+Try This,4.3,308,69
+Try This,4.3,308,69
+Try This,4.3,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.4,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.5,308,69
+Try This,4.6,308,69
+Try This,4.6,308,69
+Try This,4.6,308,69
+Try This,4.6,308,69
+Try This,4.6,308,69
+Try This,4.6,308,69
+Try This,4.6,308,69
+Try This,4.6,308,69
+Try This,4.6,308,69
+Try This,4.6,308,69
+Try This,4.6,308,69
+Try This,4.6,308,69
+Try This,4.7,308,69
+Try This,4.8,308,69
+Try This,4.8,308,69
+Try This,4.8,308,69
+Try This,5,308,69
+Vamear Exclusive,1.6,165,66
+Vamear Exclusive,3.2,165,66
+Vamear Exclusive,3.2,165,66
+Vamear Exclusive,3.5,165,66
+Vamear Exclusive,3.6,165,66
+Vamear Exclusive,3.6,165,66
+Vamear Exclusive,3.6,165,66
+Vamear Exclusive,3.7,165,66
+Vamear Exclusive,3.7,165,66
+Vamear Exclusive,3.7,165,66
+Vamear Exclusive,3.7,165,66
+Vamear Exclusive,3.8,165,66
+Vamear Exclusive,3.8,165,66
+Vamear Exclusive,3.8,165,66
+Vamear Exclusive,3.8,165,66
+Vamear Exclusive,3.8,165,66
+Vamear Exclusive,3.8,165,66
+Vamear Exclusive,3.8,165,66
+Vamear Exclusive,3.8,165,66
+Vamear Exclusive,3.8,165,66
+Vamear Exclusive,3.8,165,66
+Vamear Exclusive,3.8,165,66
+Vamear Exclusive,3.9,165,66
+Vamear Exclusive,3.9,165,66
+Vamear Exclusive,3.9,165,66
+Vamear Exclusive,3.9,165,66
+Vamear Exclusive,3.9,165,66
+Vamear Exclusive,3.9,165,66
+Vamear Exclusive,3.9,165,66
+Vamear Exclusive,3.9,165,66
+Vamear Exclusive,3.9,165,66
+Vamear Exclusive,3.9,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.1,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.2,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.3,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.4,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.5,165,66
+Vamear Exclusive,4.6,165,66
+Vamear Exclusive,4.6,165,66
+Vamear Exclusive,4.6,165,66
+Vamear Exclusive,4.6,165,66
+Vamear Exclusive,4.6,165,66
+Vamear Exclusive,4.6,165,66
+Vamear Exclusive,4.6,165,66
+Vamear Exclusive,4.6,165,66
+Vamear Exclusive,4.7,165,66
+Vamear Exclusive,4.7,165,66
+Vamear Exclusive,4.8,165,66
+Vamear Exclusive,4.8,165,66
+Vamear Exclusive,4.9,165,66
+Vamear Exclusive,4.9,165,66
+Vamear Exclusive,4.9,165,66
+Vamear Exclusive,5,165,66
+Vamear Exclusive,5,165,66
+Vamear Exclusive,5,165,66
+Vega 1st Fashion,2.7,395,60
+Vega 1st Fashion,3.2,395,60
+Vega 1st Fashion,3.2,395,60
+Vega 1st Fashion,3.5,395,60
+Vega 1st Fashion,3.5,395,60
+Vega 1st Fashion,3.8,395,60
+Vega 1st Fashion,3.9,395,60
+Vega 1st Fashion,4,395,60
+Vega 1st Fashion,4,395,60
+Vega 1st Fashion,4,395,60
+Vega 1st Fashion,4,395,60
+Vega 1st Fashion,4,395,60
+Vega 1st Fashion,4.1,395,60
+Vega 1st Fashion,4.1,395,60
+Vega 1st Fashion,4.1,395,60
+Vega 1st Fashion,4.1,395,60
+Vega 1st Fashion,4.1,395,60
+Vega 1st Fashion,4.1,395,60
+Vega 1st Fashion,4.2,395,60
+Vega 1st Fashion,4.2,395,60
+Vega 1st Fashion,4.2,395,60
+Vega 1st Fashion,4.2,395,60
+Vega 1st Fashion,4.2,395,60
+Vega 1st Fashion,4.2,395,60
+Vega 1st Fashion,4.2,395,60
+Vega 1st Fashion,4.2,395,60
+Vega 1st Fashion,4.3,395,60
+Vega 1st Fashion,4.3,395,60
+Vega 1st Fashion,4.3,395,60
+Vega 1st Fashion,4.3,395,60
+Vega 1st Fashion,4.3,395,60
+Vega 1st Fashion,4.3,395,60
+Vega 1st Fashion,4.3,395,60
+Vega 1st Fashion,4.3,395,60
+Vega 1st Fashion,4.3,395,60
+Vega 1st Fashion,4.3,395,60
+Vega 1st Fashion,4.3,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.4,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.5,395,60
+Vega 1st Fashion,4.6,395,60
+Vega 1st Fashion,4.6,395,60
+Vega 1st Fashion,4.6,395,60
+Vega 1st Fashion,4.6,395,60
+Vega 1st Fashion,4.6,395,60
+Vega 1st Fashion,4.6,395,60
+Vega 1st Fashion,4.6,395,60
+Vega 1st Fashion,4.6,395,60
+Vega 1st Fashion,4.7,395,60
+Vega 1st Fashion,4.7,395,60
+Vega 1st Fashion,4.8,395,60
+Vega 1st Fashion,4.8,395,60
+Vega 1st Fashion,4.8,395,60
+Vega 1st Fashion,4.9,395,60
+Vega 1st Fashion,5,395,60
+Vega 1st Fashion,5,395,60
+VILLAGIUS,4.5,599,85
+Vitaan,3.3,499,68
+Vitaan,3.4,499,68
+Vitaan,3.5,499,68
+Vitaan,3.9,499,68
+Vitaan,4,499,68
+Vitaan,4,499,68
+Vitaan,4,499,68
+Vitaan,4.1,499,68
+Vitaan,4.1,499,68
+Vitaan,4.1,499,68
+Vitaan,4.1,499,68
+Vitaan,4.2,499,68
+Vitaan,4.2,499,68
+Vitaan,4.2,499,68
+Vitaan,4.2,499,68
+Vitaan,4.2,499,68
+Vitaan,4.2,499,68
+Vitaan,4.2,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.3,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.4,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.5,499,68
+Vitaan,4.6,499,68
+Vitaan,4.6,499,68
+Vitaan,4.6,499,68
+Vitaan,4.6,499,68
+Vitaan,4.6,499,68
+Vitaan,4.6,499,68
+Vitaan,4.7,499,68
+Vitaan,4.8,499,68
+Vitaan,4.8,499,68
+Vitaan,4.9,499,68
+Vitaan,5,499,68
+Vitaan,3.7,279,78
+Vitaan,4,279,78
+Vitaan,4.1,279,78
+Vitaan,4.1,279,78
+Vitaan,4.2,279,78
+Vitaan,4.2,279,78
+Vitaan,4.2,279,78
+Vitaan,4.2,279,78
+Vitaan,4.2,279,78
+Vitaan,4.3,279,78
+Vitaan,4.3,279,78
+Vitaan,4.4,279,78
+Vitaan,4.4,279,78
+Vitaan,4.4,279,78
+Vitaan,4.4,279,78
+Vitaan,4.4,279,78
+Vitaan,4.5,279,78
+Vitaan,4.5,279,78
+Vitaan,4.5,279,78
+Vitaan,4.5,279,78
+Vitaan,4.5,279,78
+Vitaan,4.5,279,78
+Vitaan,4.5,279,78
+Vitaan,4.5,279,78
+Vitaan,4.6,279,78
+Vitaan,4.7,279,78
+Vitaan,4.7,279,78
+Vitaan,4.8,279,78
+Vitaan,4.8,279,78
+Vitaan,4.9,279,78
+Wrangler,4.5,"2,195",18
+Wrangler,4.7,"2,195",18
+Wrangler,4.3,"2,195",68
+Wrangler,4.5,"2,195",68
+Wrangler,4.7,"2,195",68
+Wrangler,3.9,"2,195",78
+Wrangler,3.9,"2,195",78
+Wrangler,4.4,"2,195",78
+Wrangler,4.5,"2,195",78
+Wrangler,4.6,"2,195",78
+Wrangler,4.6,"2,195",78
+XYXX,2.9,511,18
+XYXX,3.9,511,18
+XYXX,4.3,511,18
+XYXX,4.3,511,18
+XYXX,4.3,511,18
+XYXX,4.4,511,18
+XYXX,4.4,511,18
+XYXX,4.4,511,18
+XYXX,4.5,511,18
+XYXX,4.5,511,18
+XYXX,4.5,511,18
+XYXX,4.6,511,18
+XYXX,4.6,511,18
+XYXX,4.7,511,18
+XYXX,4.8,511,18
+XYXX,5,511,18
+XYXX,5,511,18
