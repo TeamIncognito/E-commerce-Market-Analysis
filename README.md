@@ -23,3 +23,4 @@ We have made the following Analysis
  - [Fashion Influencers](https://jdinstituteoffashiontechnology.com/top-20-fashion-influencers-to-follow-on-instagram-in-india/)
  
   
+  >This is for MYNTRA Hackerramp 2021 and not for commerial purpose
